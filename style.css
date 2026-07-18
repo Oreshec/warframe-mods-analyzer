@@ -1,0 +1,290 @@
+:root {
+  --bg: #0e1015;
+  --bg2: #161b22;
+  --bg3: #1c2333;
+  --border: #30363d;
+  --text: #e6edf3;
+  --text2: #8b949e;
+  --accent: #f0b232;
+  --accent2: #58a6ff;
+  --green: #3fb950;
+  --red: #f85149;
+  --syndicate-steel: #e74c3c;
+  --syndicate-arbiters: #3498db;
+  --syndicate-suda: #1abc9c;
+  --syndicate-perrin: #f39c12;
+  --syndicate-veil: #9b59b6;
+  --syndicate-loka: #2ecc71;
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+body {
+  font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  min-height: 100vh;
+}
+
+header {
+  background: var(--bg2);
+  border-bottom: 1px solid var(--border);
+  padding: 16px 24px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+header h1 {
+  font-size: 20px;
+  font-weight: 600;
+  color: var(--accent);
+  white-space: nowrap;
+}
+
+header h1 span { color: var(--text); font-weight: 400; }
+
+.controls {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.controls input[type="text"],
+.controls select {
+  background: var(--bg3);
+  border: 1px solid var(--border);
+  color: var(--text);
+  padding: 8px 12px;
+  border-radius: 6px;
+  font-size: 14px;
+  outline: none;
+  transition: border-color 0.2s;
+}
+
+.controls input[type="text"]:focus,
+.controls select:focus {
+  border-color: var(--accent2);
+}
+
+.controls input[type="text"] {
+  width: 240px;
+}
+
+.controls select { cursor: pointer; }
+
+button {
+  background: var(--accent);
+  color: #000;
+  border: none;
+  padding: 8px 18px;
+  border-radius: 6px;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: opacity 0.2s;
+}
+
+button:hover { opacity: 0.85; }
+button:disabled { opacity: 0.4; cursor: not-allowed; }
+
+button.secondary {
+  background: var(--bg3);
+  color: var(--text);
+  border: 1px solid var(--border);
+}
+
+.stats-bar {
+  background: var(--bg2);
+  border-bottom: 1px solid var(--border);
+  padding: 8px 24px;
+  font-size: 13px;
+  color: var(--text2);
+  display: flex;
+  gap: 24px;
+  flex-wrap: wrap;
+}
+
+.stats-bar strong { color: var(--accent); }
+
+.filters {
+  padding: 12px 24px;
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  align-items: center;
+  border-bottom: 1px solid var(--border);
+  background: var(--bg);
+}
+
+.filters label {
+  font-size: 13px;
+  color: var(--text2);
+  margin-right: 4px;
+}
+
+.syndicate-filters { display: flex; gap: 6px; flex-wrap: wrap; }
+
+.syndicate-btn {
+  padding: 4px 10px;
+  border-radius: 4px;
+  font-size: 12px;
+  font-weight: 500;
+  background: var(--bg3);
+  border: 1px solid var(--border);
+  color: var(--text2);
+  cursor: pointer;
+  transition: all 0.15s;
+  user-select: none;
+}
+
+.syndicate-btn.active {
+  color: #fff;
+  border-color: transparent;
+}
+
+.syndicate-btn[data-synd="Steel Meridian"].active { background: var(--syndicate-steel); }
+.syndicate-btn[data-synd="Arbiters of Hexis"].active { background: var(--syndicate-arbiters); }
+.syndicate-btn[data-synd="Cephalon Suda"].active { background: var(--syndicate-suda); }
+.syndicate-btn[data-synd="The Perrin Sequence"].active { background: var(--syndicate-perrin); }
+.syndicate-btn[data-synd="Red Veil"].active { background: var(--syndicate-veil); }
+.syndicate-btn[data-synd="New Loka"].active { background: var(--syndicate-loka); }
+
+.table-container {
+  overflow-x: auto;
+  padding: 0 24px 24px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 12px;
+  font-size: 13px;
+}
+
+thead th {
+  position: sticky;
+  top: 0;
+  background: var(--bg2);
+  border-bottom: 2px solid var(--border);
+  padding: 10px 12px;
+  text-align: left;
+  font-weight: 600;
+  color: var(--text2);
+  cursor: pointer;
+  user-select: none;
+  white-space: nowrap;
+}
+
+thead th:hover { color: var(--accent); }
+thead th.sorted { color: var(--accent); }
+thead th .arrow { margin-left: 4px; font-size: 10px; }
+
+tbody tr {
+  border-bottom: 1px solid var(--border);
+  transition: background 0.1s;
+}
+
+tbody tr:hover { background: var(--bg3); }
+
+td {
+  padding: 8px 12px;
+  vertical-align: middle;
+}
+
+td.name {
+  font-weight: 600;
+  max-width: 260px;
+}
+
+td.name a {
+  color: var(--accent2);
+  text-decoration: none;
+}
+
+td.name a:hover { text-decoration: underline; }
+
+td.number {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+}
+
+td.synd-cell {
+  display: flex;
+  gap: 4px;
+  flex-wrap: wrap;
+}
+
+.synd-tag {
+  padding: 2px 6px;
+  border-radius: 3px;
+  font-size: 11px;
+  font-weight: 500;
+  color: #fff;
+  white-space: nowrap;
+}
+
+.synd-tag[data-synd="Steel Meridian"] { background: var(--syndicate-steel); }
+.synd-tag[data-synd="Arbiters of Hexis"] { background: var(--syndicate-arbiters); }
+.synd-tag[data-synd="Cephalon Suda"] { background: var(--syndicate-suda); }
+.synd-tag[data-synd="The Perrin Sequence"] { background: var(--syndicate-perrin); }
+.synd-tag[data-synd="Red Veil"] { background: var(--syndicate-veil); }
+.synd-tag[data-synd="New Loka"] { background: var(--syndicate-loka); }
+
+.rank-detail {
+  font-size: 11px;
+  color: var(--text2);
+  margin-top: 2px;
+}
+
+.high-score { color: var(--green); font-weight: 600; }
+.mid-score { color: var(--accent); }
+.low-score { color: var(--red); }
+
+.no-data { color: var(--text2); font-style: italic; }
+
+.loader {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 80px 20px;
+  gap: 16px;
+}
+
+.spinner {
+  width: 40px;
+  height: 40px;
+  border: 3px solid var(--border);
+  border-top-color: var(--accent);
+  border-radius: 50%;
+  animation: spin 0.8s linear infinite;
+}
+
+@keyframes spin { to { transform: rotate(360deg); } }
+
+.loader-text { color: var(--text2); font-size: 14px; }
+
+.progress-text {
+  color: var(--accent);
+  font-size: 13px;
+}
+
+footer {
+  text-align: center;
+  padding: 16px;
+  color: var(--text2);
+  font-size: 12px;
+  border-top: 1px solid var(--border);
+}
+
+@media (max-width: 768px) {
+  header { padding: 12px 16px; }
+  .table-container { padding: 0 12px 12px; }
+  .filters { padding: 8px 16px; }
+  .controls input[type="text"] { width: 180px; }
+  td.synd-cell { flex-direction: column; }
+}

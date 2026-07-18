@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Warframe Mods Analyzer</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>Warframe <span>Mods Analyzer</span></h1>
+  <div class="controls">
+    <select id="platform" onchange="loadData()">
+      <option value="pc">PC</option>
+      <option value="ps4">PlayStation</option>
+      <option value="xbox">Xbox</option>
+      <option value="switch">Switch</option>
+    </select>
+    <input type="text" id="search" placeholder="Search mods...">
+    <button class="secondary" onclick="exportCSV()">Export CSV</button>
+  </div>
+</header>
+
+<div class="stats-bar" id="statsBar" style="display:none;">
+  <span>Last updated: <strong id="statUpdated">-</strong></span>
+  <span>Total: <strong id="statTotal">0</strong></span>
+  <span>Avg Price: <strong id="statAvgPrice">-</strong></span>
+  <span>Avg Score: <strong id="statAvgScore">-</strong></span>
+  <span>Show: <strong id="statShown">0</strong></span>
+</div>
+
+<div class="filters" id="filterBar">
+  <label>Syndicates:</label>
+  <div class="syndicate-filters" id="syndicateFilters">
+    <button class="syndicate-btn active" data-synd="all" onclick="toggleSyndicate(this)">All</button>
+    <button class="syndicate-btn" data-synd="Steel Meridian" onclick="toggleSyndicate(this)">Steel Meridian</button>
+    <button class="syndicate-btn" data-synd="Arbiters of Hexis" onclick="toggleSyndicate(this)">Arbiters of Hexis</button>
+    <button class="syndicate-btn" data-synd="Cephalon Suda" onclick="toggleSyndicate(this)">Cephalon Suda</button>
+    <button class="syndicate-btn" data-synd="The Perrin Sequence" onclick="toggleSyndicate(this)">The Perrin Sequence</button>
+    <button class="syndicate-btn" data-synd="Red Veil" onclick="toggleSyndicate(this)">Red Veil</button>
+    <button class="syndicate-btn" data-synd="New Loka" onclick="toggleSyndicate(this)">New Loka</button>
+  </div>
+</div>
+
+<div class="table-container">
+  <div id="content">
+    <div class="loader">
+      <div class="spinner"></div>
+      <div class="loader-text">Loading market data...</div>
+    </div>
+  </div>
+</div>
+
+<footer>Warframe Mods Analyzer &mdash; Data updated daily via GitHub Actions &mdash; Sources: warframe.market, warframe.fandom.com</footer>
+
+<script src="app.js"></script>
+</body>
+</html>
