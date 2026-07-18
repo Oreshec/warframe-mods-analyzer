@@ -18,11 +18,14 @@
       <option value="switch">Switch</option>
     </select>
     <input type="text" id="search" placeholder="Search mods...">
+    <button id="refreshBtn" onclick="loadLive()">Refresh Now</button>
+    <button class="secondary" onclick="loadCached()">Cached Data</button>
     <button class="secondary" onclick="exportCSV()">Export CSV</button>
   </div>
 </header>
 
 <div class="stats-bar" id="statsBar" style="display:none;">
+  <span id="modeLabel">Source: <strong>Cached</strong></span>
   <span>Last updated: <strong id="statUpdated">-</strong></span>
   <span>Total: <strong id="statTotal">0</strong></span>
   <span>Avg Price: <strong id="statAvgPrice">-</strong></span>
