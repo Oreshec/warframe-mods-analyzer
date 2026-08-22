@@ -1,22 +1,108 @@
 {
   "platform": "pc",
-  "updated_at": "2026-08-22T14:10:31.683Z",
+  "updated_at": "2026-08-22T16:10:55.869Z",
   "results": [
     {
-      "name": "Gilded Truth",
-      "url_name": "gilded_truth",
+      "name": "Intrepid Stand",
+      "url_name": "intrepid_stand",
       "standing_cost": 25000,
       "syndicates": [
-        "Arbiters of Hexis"
+        "Arbiters of Hexis",
+        "New Loka"
       ],
       "best_by_rank": {},
-      "volume_48h": 186,
+      "volume_48h": 107,
+      "median_48h": 15,
+      "chosen_price": 15,
+      "chosen_rank": null,
+      "plat_per_standing": 0.0006,
+      "score": 0.0642,
+      "market_url": "https://warframe.market/items/intrepid_stand"
+    },
+    {
+      "name": "Shock Trooper",
+      "url_name": "shock_trooper",
+      "standing_cost": 25000,
+      "syndicates": [
+        "Arbiters of Hexis",
+        "Red Veil"
+      ],
+      "best_by_rank": {},
+      "volume_48h": 164,
+      "median_48h": 9,
+      "chosen_price": 9,
+      "chosen_rank": null,
+      "plat_per_standing": 0.00036,
+      "score": 0.05904,
+      "market_url": "https://warframe.market/items/shock_trooper"
+    },
+    {
+      "name": "Mesa's Waltz",
+      "url_name": "mesas_waltz",
+      "standing_cost": 25000,
+      "syndicates": [
+        "Red Veil",
+        "Steel Meridian"
+      ],
+      "best_by_rank": {},
+      "volume_48h": 144,
+      "median_48h": 9,
+      "chosen_price": 9,
+      "chosen_rank": null,
+      "plat_per_standing": 0.00036,
+      "score": 0.051840000000000004,
+      "market_url": "https://warframe.market/items/mesas_waltz"
+    },
+    {
+      "name": "Cathode Current",
+      "url_name": "cathode_current",
+      "standing_cost": 25000,
+      "syndicates": [
+        "Arbiters of Hexis",
+        "The Perrin Sequence"
+      ],
+      "best_by_rank": {},
+      "volume_48h": 123,
       "median_48h": 10,
       "chosen_price": 10,
       "chosen_rank": null,
       "plat_per_standing": 0.0004,
-      "score": 0.07440000000000001,
-      "market_url": "https://warframe.market/items/gilded_truth"
+      "score": 0.0492,
+      "market_url": "https://warframe.market/items/cathode_current"
+    },
+    {
+      "name": "Despoil",
+      "url_name": "despoil",
+      "standing_cost": 25000,
+      "syndicates": [
+        "Red Veil",
+        "The Perrin Sequence"
+      ],
+      "best_by_rank": {},
+      "volume_48h": 121,
+      "median_48h": 10,
+      "chosen_price": 10,
+      "chosen_rank": null,
+      "plat_per_standing": 0.0004,
+      "score": 0.048400000000000006,
+      "market_url": "https://warframe.market/items/despoil"
+    },
+    {
+      "name": "Venom Dose",
+      "url_name": "venom_dose",
+      "standing_cost": 25000,
+      "syndicates": [
+        "Red Veil",
+        "Steel Meridian"
+      ],
+      "best_by_rank": {},
+      "volume_48h": 126,
+      "median_48h": 9,
+      "chosen_price": 9,
+      "chosen_rank": null,
+      "plat_per_standing": 0.00036,
+      "score": 0.045360000000000004,
+      "market_url": "https://warframe.market/items/venom_dose"
     },
     {
       "name": "Pilfering Strangledome",
@@ -27,30 +113,81 @@
         "Steel Meridian"
       ],
       "best_by_rank": {},
-      "volume_48h": 135,
-      "median_48h": 7.5,
-      "chosen_price": 7.5,
+      "volume_48h": 130,
+      "median_48h": 8,
+      "chosen_price": 8,
       "chosen_rank": null,
-      "plat_per_standing": 0.0003,
-      "score": 0.040499999999999994,
+      "plat_per_standing": 0.00032,
+      "score": 0.041600000000000005,
       "market_url": "https://warframe.market/items/pilfering_strangledome"
     },
     {
-      "name": "Parasitic Vitality",
-      "url_name": "parasitic_vitality",
+      "name": "Eternal War",
+      "url_name": "eternal_war",
       "standing_cost": 25000,
       "syndicates": [
-        "Steel Meridian",
+        "New Loka",
         "The Perrin Sequence"
       ],
       "best_by_rank": {},
-      "volume_48h": 69,
-      "median_48h": 14,
-      "chosen_price": 14,
+      "volume_48h": 112,
+      "median_48h": 9,
+      "chosen_price": 9,
       "chosen_rank": null,
-      "plat_per_standing": 0.00056,
-      "score": 0.038639999999999994,
-      "market_url": "https://warframe.market/items/parasitic_vitality"
+      "plat_per_standing": 0.00036,
+      "score": 0.04032,
+      "market_url": "https://warframe.market/items/eternal_war"
+    },
+    {
+      "name": "Accumulating Whipclaw",
+      "url_name": "accumulating_whipclaw",
+      "standing_cost": 25000,
+      "syndicates": [
+        "Red Veil",
+        "Steel Meridian"
+      ],
+      "best_by_rank": {},
+      "volume_48h": 100,
+      "median_48h": 9,
+      "chosen_price": 9,
+      "chosen_rank": null,
+      "plat_per_standing": 0.00036,
+      "score": 0.036000000000000004,
+      "market_url": "https://warframe.market/items/accumulating_whipclaw"
+    },
+    {
+      "name": "Fused Reservoir",
+      "url_name": "fused_reservoir",
+      "standing_cost": 25000,
+      "syndicates": [
+        "Cephalon Suda",
+        "New Loka"
+      ],
+      "best_by_rank": {},
+      "volume_48h": 83,
+      "median_48h": 9.5,
+      "chosen_price": 9.5,
+      "chosen_rank": null,
+      "plat_per_standing": 0.00038,
+      "score": 0.03154,
+      "market_url": "https://warframe.market/items/fused_reservoir"
+    },
+    {
+      "name": "Total Eclipse",
+      "url_name": "total_eclipse",
+      "standing_cost": 25000,
+      "syndicates": [
+        "Arbiters of Hexis",
+        "Cephalon Suda"
+      ],
+      "best_by_rank": {},
+      "volume_48h": 58,
+      "median_48h": 12,
+      "chosen_price": 12,
+      "chosen_rank": null,
+      "plat_per_standing": 0.00048,
+      "score": 0.02784,
+      "market_url": "https://warframe.market/items/total_eclipse"
     },
     {
       "name": "Valence Formation",
@@ -61,30 +198,64 @@
         "Red Veil"
       ],
       "best_by_rank": {},
-      "volume_48h": 67,
-      "median_48h": 10.5,
-      "chosen_price": 10.5,
-      "chosen_rank": null,
-      "plat_per_standing": 0.00042,
-      "score": 0.028140000000000002,
-      "market_url": "https://warframe.market/items/valence_formation"
-    },
-    {
-      "name": "Pilfering Swarm",
-      "url_name": "pilfering_swarm",
-      "standing_cost": 25000,
-      "syndicates": [
-        "Cephalon Suda",
-        "New Loka"
-      ],
-      "best_by_rank": {},
-      "volume_48h": 49,
+      "volume_48h": 69,
       "median_48h": 10,
       "chosen_price": 10,
       "chosen_rank": null,
       "plat_per_standing": 0.0004,
-      "score": 0.0196,
-      "market_url": "https://warframe.market/items/pilfering_swarm"
+      "score": 0.027600000000000003,
+      "market_url": "https://warframe.market/items/valence_formation"
+    },
+    {
+      "name": "Hall of Malevolence",
+      "url_name": "hall_of_malevolence",
+      "standing_cost": 25000,
+      "syndicates": [
+        "Arbiters of Hexis",
+        "Cephalon Suda"
+      ],
+      "best_by_rank": {},
+      "volume_48h": 61,
+      "median_48h": 10,
+      "chosen_price": 10,
+      "chosen_rank": null,
+      "plat_per_standing": 0.0004,
+      "score": 0.0244,
+      "market_url": "https://warframe.market/items/hall_of_malevolence"
+    },
+    {
+      "name": "Muzzle Flash",
+      "url_name": "muzzle_flash",
+      "standing_cost": 25000,
+      "syndicates": [
+        "Red Veil",
+        "Steel Meridian"
+      ],
+      "best_by_rank": {},
+      "volume_48h": 53,
+      "median_48h": 11,
+      "chosen_price": 11,
+      "chosen_rank": null,
+      "plat_per_standing": 0.00044,
+      "score": 0.02332,
+      "market_url": "https://warframe.market/items/muzzle_flash"
+    },
+    {
+      "name": "Hysterical Assault",
+      "url_name": "hysterical_assault",
+      "standing_cost": 25000,
+      "syndicates": [
+        "New Loka",
+        "The Perrin Sequence"
+      ],
+      "best_by_rank": {},
+      "volume_48h": 38,
+      "median_48h": 15,
+      "chosen_price": 15,
+      "chosen_rank": null,
+      "plat_per_standing": 0.0006,
+      "score": 0.022799999999999997,
+      "market_url": "https://warframe.market/items/hysterical_assault"
     },
     {
       "name": "Chromatic Blade",
@@ -95,13 +266,30 @@
         "Steel Meridian"
       ],
       "best_by_rank": {},
-      "volume_48h": 53,
-      "median_48h": 9,
-      "chosen_price": 9,
+      "volume_48h": 52,
+      "median_48h": 10,
+      "chosen_price": 10,
       "chosen_rank": null,
-      "plat_per_standing": 0.00036,
-      "score": 0.01908,
+      "plat_per_standing": 0.0004,
+      "score": 0.020800000000000003,
       "market_url": "https://warframe.market/items/chromatic_blade"
+    },
+    {
+      "name": "Thrall Pact",
+      "url_name": "thrall_pact",
+      "standing_cost": 25000,
+      "syndicates": [
+        "Cephalon Suda",
+        "The Perrin Sequence"
+      ],
+      "best_by_rank": {},
+      "volume_48h": 37,
+      "median_48h": 14,
+      "chosen_price": 14,
+      "chosen_rank": null,
+      "plat_per_standing": 0.00056,
+      "score": 0.02072,
+      "market_url": "https://warframe.market/items/thrall_pact"
     },
     {
       "name": "Assimilate",
@@ -112,13 +300,132 @@
         "New Loka"
       ],
       "best_by_rank": {},
-      "volume_48h": 47,
+      "volume_48h": 49,
       "median_48h": 10,
       "chosen_price": 10,
       "chosen_rank": null,
       "plat_per_standing": 0.0004,
-      "score": 0.0188,
+      "score": 0.0196,
       "market_url": "https://warframe.market/items/assimilate"
+    },
+    {
+      "name": "Greedy Pull",
+      "url_name": "greedy_pull",
+      "standing_cost": 25000,
+      "syndicates": [
+        "New Loka",
+        "The Perrin Sequence"
+      ],
+      "best_by_rank": {},
+      "volume_48h": 42,
+      "median_48h": 11,
+      "chosen_price": 11,
+      "chosen_rank": null,
+      "plat_per_standing": 0.00044,
+      "score": 0.01848,
+      "market_url": "https://warframe.market/items/greedy_pull"
+    },
+    {
+      "name": "Explosive Legerdemain",
+      "url_name": "explosive_legerdemain",
+      "standing_cost": 25000,
+      "syndicates": [
+        "Arbiters of Hexis",
+        "Cephalon Suda"
+      ],
+      "best_by_rank": {},
+      "volume_48h": 50,
+      "median_48h": 9,
+      "chosen_price": 9,
+      "chosen_rank": null,
+      "plat_per_standing": 0.00036,
+      "score": 0.018000000000000002,
+      "market_url": "https://warframe.market/items/explosive_legerdemain"
+    },
+    {
+      "name": "Capacitance",
+      "url_name": "capacitance",
+      "standing_cost": 25000,
+      "syndicates": [
+        "Arbiters of Hexis",
+        "Red Veil"
+      ],
+      "best_by_rank": {},
+      "volume_48h": 41,
+      "median_48h": 10,
+      "chosen_price": 10,
+      "chosen_rank": null,
+      "plat_per_standing": 0.0004,
+      "score": 0.0164,
+      "market_url": "https://warframe.market/items/capacitance"
+    },
+    {
+      "name": "Temporal Erosion",
+      "url_name": "temporal_erosion",
+      "standing_cost": 25000,
+      "syndicates": [
+        "Arbiters of Hexis",
+        "The Perrin Sequence"
+      ],
+      "best_by_rank": {},
+      "volume_48h": 39,
+      "median_48h": 10,
+      "chosen_price": 10,
+      "chosen_rank": null,
+      "plat_per_standing": 0.0004,
+      "score": 0.015600000000000001,
+      "market_url": "https://warframe.market/items/temporal_erosion"
+    },
+    {
+      "name": "Infiltrate",
+      "url_name": "infiltrate",
+      "standing_cost": 25000,
+      "syndicates": [
+        "Cephalon Suda",
+        "The Perrin Sequence"
+      ],
+      "best_by_rank": {},
+      "volume_48h": 26,
+      "median_48h": 15,
+      "chosen_price": 15,
+      "chosen_rank": null,
+      "plat_per_standing": 0.0006,
+      "score": 0.0156,
+      "market_url": "https://warframe.market/items/infiltrate"
+    },
+    {
+      "name": "Icy Avalanche",
+      "url_name": "icy_avalanche",
+      "standing_cost": 25000,
+      "syndicates": [
+        "Cephalon Suda",
+        "Steel Meridian"
+      ],
+      "best_by_rank": {},
+      "volume_48h": 19,
+      "median_48h": 19,
+      "chosen_price": 19,
+      "chosen_rank": null,
+      "plat_per_standing": 0.00076,
+      "score": 0.014440000000000001,
+      "market_url": "https://warframe.market/items/icy_avalanche"
+    },
+    {
+      "name": "Fracturing Crush",
+      "url_name": "fracturing_crush",
+      "standing_cost": 25000,
+      "syndicates": [
+        "New Loka",
+        "The Perrin Sequence"
+      ],
+      "best_by_rank": {},
+      "volume_48h": 24,
+      "median_48h": 14,
+      "chosen_price": 14,
+      "chosen_rank": null,
+      "plat_per_standing": 0.00056,
+      "score": 0.013439999999999999,
+      "market_url": "https://warframe.market/items/fracturing_crush"
     },
     {
       "name": "Freeze Force",
@@ -138,6 +445,57 @@
       "market_url": "https://warframe.market/items/freeze_force"
     },
     {
+      "name": "Rubble Heap",
+      "url_name": "rubble_heap",
+      "standing_cost": 25000,
+      "syndicates": [
+        "Red Veil",
+        "Steel Meridian"
+      ],
+      "best_by_rank": {},
+      "volume_48h": 23,
+      "median_48h": 12,
+      "chosen_price": 12,
+      "chosen_rank": null,
+      "plat_per_standing": 0.00048,
+      "score": 0.01104,
+      "market_url": "https://warframe.market/items/rubble_heap"
+    },
+    {
+      "name": "Lasting Covenant",
+      "url_name": "lasting_covenant",
+      "standing_cost": 25000,
+      "syndicates": [
+        "Arbiters of Hexis",
+        "Red Veil"
+      ],
+      "best_by_rank": {},
+      "volume_48h": 18,
+      "median_48h": 14,
+      "chosen_price": 14,
+      "chosen_rank": null,
+      "plat_per_standing": 0.00056,
+      "score": 0.010079999999999999,
+      "market_url": "https://warframe.market/items/lasting_covenant"
+    },
+    {
+      "name": "Spectrosiphon",
+      "url_name": "spectrosiphon",
+      "standing_cost": 25000,
+      "syndicates": [
+        "Arbiters of Hexis",
+        "New Loka"
+      ],
+      "best_by_rank": {},
+      "volume_48h": 19,
+      "median_48h": 13,
+      "chosen_price": 13,
+      "chosen_rank": null,
+      "plat_per_standing": 0.00052,
+      "score": 0.00988,
+      "market_url": "https://warframe.market/items/spectrosiphon"
+    },
+    {
       "name": "Biting Frost",
       "url_name": "biting_frost",
       "standing_cost": 25000,
@@ -146,12 +504,12 @@
         "Steel Meridian"
       ],
       "best_by_rank": {},
-      "volume_48h": 27,
-      "median_48h": 10,
-      "chosen_price": 10,
+      "volume_48h": 25,
+      "median_48h": 9,
+      "chosen_price": 9,
       "chosen_rank": null,
-      "plat_per_standing": 0.0004,
-      "score": 0.0108,
+      "plat_per_standing": 0.00036,
+      "score": 0.009000000000000001,
       "market_url": "https://warframe.market/items/biting_frost"
     },
     {
@@ -172,8 +530,8 @@
       "market_url": "https://warframe.market/items/guardian_armor"
     },
     {
-      "name": "Celestial Stomp",
-      "url_name": "celestial_stomp",
+      "name": "Mind Freak",
+      "url_name": "mind_freak",
       "standing_cost": 25000,
       "syndicates": [
         "Arbiters of Hexis",
@@ -186,41 +544,24 @@
       "chosen_rank": null,
       "plat_per_standing": 0.00052,
       "score": 0.008839999999999999,
-      "market_url": "https://warframe.market/items/celestial_stomp"
+      "market_url": "https://warframe.market/items/mind_freak"
     },
     {
-      "name": "Rubble Heap",
-      "url_name": "rubble_heap",
+      "name": "Piercing Roar",
+      "url_name": "piercing_roar",
       "standing_cost": 25000,
       "syndicates": [
-        "Red Veil",
-        "Steel Meridian"
+        "Steel Meridian",
+        "The Perrin Sequence"
       ],
       "best_by_rank": {},
-      "volume_48h": 22,
-      "median_48h": 10,
-      "chosen_price": 10,
+      "volume_48h": 21,
+      "median_48h": 10.5,
+      "chosen_price": 10.5,
       "chosen_rank": null,
-      "plat_per_standing": 0.0004,
-      "score": 0.0088,
-      "market_url": "https://warframe.market/items/rubble_heap"
-    },
-    {
-      "name": "Icy Avalanche",
-      "url_name": "icy_avalanche",
-      "standing_cost": 25000,
-      "syndicates": [
-        "Cephalon Suda",
-        "Steel Meridian"
-      ],
-      "best_by_rank": {},
-      "volume_48h": 20,
-      "median_48h": 10,
-      "chosen_price": 10,
-      "chosen_rank": null,
-      "plat_per_standing": 0.0004,
-      "score": 0.008,
-      "market_url": "https://warframe.market/items/icy_avalanche"
+      "plat_per_standing": 0.00042,
+      "score": 0.00882,
+      "market_url": "https://warframe.market/items/piercing_roar"
     },
     {
       "name": "Scattered Justice",
@@ -230,37 +571,20 @@
         "Steel Meridian"
       ],
       "best_by_rank": {},
-      "volume_48h": 18,
+      "volume_48h": 17,
       "median_48h": 10,
       "chosen_price": 10,
       "chosen_rank": null,
       "plat_per_standing": 0.0004,
-      "score": 0.007200000000000001,
+      "score": 0.0068000000000000005,
       "market_url": "https://warframe.market/items/scattered_justice"
     },
     {
-      "name": "Ore Gaze",
-      "url_name": "ore_gaze",
+      "name": "Blending Talons",
+      "url_name": "blending_talons",
       "standing_cost": 25000,
       "syndicates": [
         "Red Veil",
-        "Steel Meridian"
-      ],
-      "best_by_rank": {},
-      "volume_48h": 15,
-      "median_48h": 12,
-      "chosen_price": 12,
-      "chosen_rank": null,
-      "plat_per_standing": 0.00048,
-      "score": 0.0072,
-      "market_url": "https://warframe.market/items/ore_gaze"
-    },
-    {
-      "name": "Furious Javelin",
-      "url_name": "furious_javelin",
-      "standing_cost": 25000,
-      "syndicates": [
-        "Arbiters of Hexis",
         "Steel Meridian"
       ],
       "best_by_rank": {},
@@ -270,11 +594,11 @@
       "chosen_rank": null,
       "plat_per_standing": 0.0004,
       "score": 0.0068000000000000005,
-      "market_url": "https://warframe.market/items/furious_javelin"
+      "market_url": "https://warframe.market/items/blending_talons"
     },
     {
-      "name": "Healing Flame",
-      "url_name": "healing_flame",
+      "name": "Ore Gaze",
+      "url_name": "ore_gaze",
       "standing_cost": 25000,
       "syndicates": [
         "Red Veil",
@@ -287,45 +611,96 @@
       "chosen_rank": null,
       "plat_per_standing": 0.0004,
       "score": 0.0064,
-      "market_url": "https://warframe.market/items/healing_flame"
+      "market_url": "https://warframe.market/items/ore_gaze"
     },
     {
-      "name": "Enraged",
-      "url_name": "enraged",
+      "name": "Furious Javelin",
+      "url_name": "furious_javelin",
+      "standing_cost": 25000,
+      "syndicates": [
+        "Arbiters of Hexis",
+        "Steel Meridian"
+      ],
+      "best_by_rank": {},
+      "volume_48h": 16,
+      "median_48h": 10,
+      "chosen_price": 10,
+      "chosen_rank": null,
+      "plat_per_standing": 0.0004,
+      "score": 0.0064,
+      "market_url": "https://warframe.market/items/furious_javelin"
+    },
+    {
+      "name": "Champion's Blessing",
+      "url_name": "champions_blessing",
       "standing_cost": 25000,
       "syndicates": [
         "New Loka",
         "The Perrin Sequence"
       ],
       "best_by_rank": {},
-      "volume_48h": 13,
-      "median_48h": 12,
-      "chosen_price": 12,
+      "volume_48h": 11,
+      "median_48h": 14,
+      "chosen_price": 14,
       "chosen_rank": null,
-      "plat_per_standing": 0.00048,
-      "score": 0.00624,
-      "market_url": "https://warframe.market/items/enraged"
+      "plat_per_standing": 0.00056,
+      "score": 0.00616,
+      "market_url": "https://warframe.market/items/champions_blessing"
     },
     {
-      "name": "Path of Statues",
-      "url_name": "path_of_statues",
+      "name": "Fireball Frenzy",
+      "url_name": "fireball_frenzy",
       "standing_cost": 25000,
       "syndicates": [
         "Red Veil",
         "Steel Meridian"
       ],
       "best_by_rank": {},
-      "volume_48h": 11,
-      "median_48h": 13,
-      "chosen_price": 13,
+      "volume_48h": 12,
+      "median_48h": 12.5,
+      "chosen_price": 12.5,
       "chosen_rank": null,
-      "plat_per_standing": 0.00052,
-      "score": 0.005719999999999999,
-      "market_url": "https://warframe.market/items/path_of_statues"
+      "plat_per_standing": 0.0005,
+      "score": 0.006,
+      "market_url": "https://warframe.market/items/fireball_frenzy"
     },
     {
-      "name": "Fireball Frenzy",
-      "url_name": "fireball_frenzy",
+      "name": "Tesla Bank",
+      "url_name": "tesla_bank",
+      "standing_cost": 25000,
+      "syndicates": [
+        "Cephalon Suda",
+        "The Perrin Sequence"
+      ],
+      "best_by_rank": {},
+      "volume_48h": 12,
+      "median_48h": 11,
+      "chosen_price": 11,
+      "chosen_rank": null,
+      "plat_per_standing": 0.00044,
+      "score": 0.00528,
+      "market_url": "https://warframe.market/items/tesla_bank"
+    },
+    {
+      "name": "Healing Flame",
+      "url_name": "healing_flame",
+      "standing_cost": 25000,
+      "syndicates": [
+        "Red Veil",
+        "Steel Meridian"
+      ],
+      "best_by_rank": {},
+      "volume_48h": 13,
+      "median_48h": 10,
+      "chosen_price": 10,
+      "chosen_rank": null,
+      "plat_per_standing": 0.0004,
+      "score": 0.005200000000000001,
+      "market_url": "https://warframe.market/items/healing_flame"
+    },
+    {
+      "name": "Path of Statues",
+      "url_name": "path_of_statues",
       "standing_cost": 25000,
       "syndicates": [
         "Red Veil",
@@ -338,7 +713,24 @@
       "chosen_rank": null,
       "plat_per_standing": 0.00052,
       "score": 0.0052,
-      "market_url": "https://warframe.market/items/fireball_frenzy"
+      "market_url": "https://warframe.market/items/path_of_statues"
+    },
+    {
+      "name": "Shocking Speed",
+      "url_name": "shocking_speed",
+      "standing_cost": 25000,
+      "syndicates": [
+        "Arbiters of Hexis",
+        "Red Veil"
+      ],
+      "best_by_rank": {},
+      "volume_48h": 16,
+      "median_48h": 8,
+      "chosen_price": 8,
+      "chosen_rank": null,
+      "plat_per_standing": 0.00032,
+      "score": 0.00512,
+      "market_url": "https://warframe.market/items/shocking_speed"
     },
     {
       "name": "Recrystalize",
@@ -358,12 +750,12 @@
       "market_url": "https://warframe.market/items/recrystalize"
     },
     {
-      "name": "Repelling Bastille",
-      "url_name": "repelling_bastille",
+      "name": "Venari Bodyguard",
+      "url_name": "venari_bodyguard",
       "standing_cost": 25000,
       "syndicates": [
-        "Cephalon Suda",
-        "The Perrin Sequence"
+        "Red Veil",
+        "Steel Meridian"
       ],
       "best_by_rank": {},
       "volume_48h": 10,
@@ -372,7 +764,58 @@
       "chosen_rank": null,
       "plat_per_standing": 0.00048,
       "score": 0.0048000000000000004,
-      "market_url": "https://warframe.market/items/repelling_bastille"
+      "market_url": "https://warframe.market/items/venari_bodyguard"
+    },
+    {
+      "name": "Jet Stream",
+      "url_name": "jet_stream",
+      "standing_cost": 25000,
+      "syndicates": [
+        "New Loka",
+        "Red Veil"
+      ],
+      "best_by_rank": {},
+      "volume_48h": 8,
+      "median_48h": 15,
+      "chosen_price": 15,
+      "chosen_rank": null,
+      "plat_per_standing": 0.0006,
+      "score": 0.0048,
+      "market_url": "https://warframe.market/items/jet_stream"
+    },
+    {
+      "name": "Rousing Plunder",
+      "url_name": "rousing_plunder",
+      "standing_cost": 25000,
+      "syndicates": [
+        "Cephalon Suda",
+        "New Loka"
+      ],
+      "best_by_rank": {},
+      "volume_48h": 6,
+      "median_48h": 19,
+      "chosen_price": 19,
+      "chosen_rank": null,
+      "plat_per_standing": 0.00076,
+      "score": 0.00456,
+      "market_url": "https://warframe.market/items/rousing_plunder"
+    },
+    {
+      "name": "Controlled Slide",
+      "url_name": "controlled_slide",
+      "standing_cost": 25000,
+      "syndicates": [
+        "Cephalon Suda",
+        "Steel Meridian"
+      ],
+      "best_by_rank": {},
+      "volume_48h": 8,
+      "median_48h": 14,
+      "chosen_price": 14,
+      "chosen_rank": null,
+      "plat_per_standing": 0.00056,
+      "score": 0.00448,
+      "market_url": "https://warframe.market/items/controlled_slide"
     },
     {
       "name": "Energy Transfer",
@@ -383,53 +826,121 @@
         "New Loka"
       ],
       "best_by_rank": {},
-      "volume_48h": 7,
-      "median_48h": 16.5,
-      "chosen_price": 16.5,
+      "volume_48h": 8,
+      "median_48h": 14,
+      "chosen_price": 14,
       "chosen_rank": null,
-      "plat_per_standing": 0.00066,
-      "score": 0.00462,
+      "plat_per_standing": 0.00056,
+      "score": 0.00448,
       "market_url": "https://warframe.market/items/energy_transfer"
     },
     {
-      "name": "Desiccation's Curse",
-      "url_name": "desiccations_curse",
+      "name": "Catapult",
+      "url_name": "catapult",
       "standing_cost": 25000,
       "syndicates": [
-        "Arbiters of Hexis",
-        "The Perrin Sequence"
+        "Red Veil",
+        "Steel Meridian"
       ],
       "best_by_rank": {},
-      "volume_48h": 6,
-      "median_48h": 17,
-      "chosen_price": 17,
+      "volume_48h": 9,
+      "median_48h": 12,
+      "chosen_price": 12,
       "chosen_rank": null,
-      "plat_per_standing": 0.00068,
-      "score": 0.00408,
-      "market_url": "https://warframe.market/items/desiccations_curse"
+      "plat_per_standing": 0.00048,
+      "score": 0.00432,
+      "market_url": "https://warframe.market/items/catapult"
     },
     {
-      "name": "Fatal Teleport",
-      "url_name": "fatal_teleport",
+      "name": "Surging Blades",
+      "url_name": "surging_blades",
+      "standing_cost": 25000,
+      "syndicates": [
+        "Cephalon Suda",
+        "New Loka"
+      ],
+      "best_by_rank": {},
+      "volume_48h": 7,
+      "median_48h": 15,
+      "chosen_price": 15,
+      "chosen_rank": null,
+      "plat_per_standing": 0.0006,
+      "score": 0.0042,
+      "market_url": "https://warframe.market/items/surging_blades"
+    },
+    {
+      "name": "Gleaming Blight",
+      "url_name": "gleaming_blight",
+      "standing_cost": 25000,
+      "syndicates": [
+        "Red Veil"
+      ],
+      "best_by_rank": {},
+      "volume_48h": 4,
+      "median_48h": 25,
+      "chosen_price": 25,
+      "chosen_rank": null,
+      "plat_per_standing": 0.001,
+      "score": 0.004,
+      "market_url": "https://warframe.market/items/gleaming_blight"
+    },
+    {
+      "name": "Smoke Shadow",
+      "url_name": "smoke_shadow",
       "standing_cost": 25000,
       "syndicates": [
         "Arbiters of Hexis",
         "Red Veil"
       ],
       "best_by_rank": {},
-      "volume_48h": 7,
-      "median_48h": 14,
-      "chosen_price": 14,
+      "volume_48h": 9,
+      "median_48h": 10,
+      "chosen_price": 10,
       "chosen_rank": null,
-      "plat_per_standing": 0.00056,
-      "score": 0.00392,
-      "market_url": "https://warframe.market/items/fatal_teleport"
+      "plat_per_standing": 0.0004,
+      "score": 0.0036000000000000003,
+      "market_url": "https://warframe.market/items/smoke_shadow"
     },
     {
-      "name": "Justice Blades",
-      "url_name": "justice_blades",
+      "name": "Gourmand",
+      "url_name": "gourmand",
       "standing_cost": 25000,
       "syndicates": [
+        "Red Veil",
+        "Steel Meridian"
+      ],
+      "best_by_rank": {},
+      "volume_48h": 7,
+      "median_48h": 12,
+      "chosen_price": 12,
+      "chosen_rank": null,
+      "plat_per_standing": 0.00048,
+      "score": 0.00336,
+      "market_url": "https://warframe.market/items/gourmand"
+    },
+    {
+      "name": "Escape Velocity",
+      "url_name": "escape_velocity",
+      "standing_cost": 25000,
+      "syndicates": [
+        "Cephalon Suda",
+        "Steel Meridian"
+      ],
+      "best_by_rank": {},
+      "volume_48h": 7,
+      "median_48h": 12,
+      "chosen_price": 12,
+      "chosen_rank": null,
+      "plat_per_standing": 0.00048,
+      "score": 0.00336,
+      "market_url": "https://warframe.market/items/escape_velocity"
+    },
+    {
+      "name": "Wrath of Ukko",
+      "url_name": "wrath_of_ukko",
+      "standing_cost": 25000,
+      "syndicates": [
+        "New Loka",
         "Steel Meridian"
       ],
       "best_by_rank": {},
@@ -439,7 +950,7 @@
       "chosen_rank": null,
       "plat_per_standing": 0.00036,
       "score": 0.0032400000000000003,
-      "market_url": "https://warframe.market/items/justice_blades"
+      "market_url": "https://warframe.market/items/wrath_of_ukko"
     },
     {
       "name": "Chilling Globe",
@@ -459,12 +970,12 @@
       "market_url": "https://warframe.market/items/chilling_globe"
     },
     {
-      "name": "Jet Stream",
-      "url_name": "jet_stream",
+      "name": "Hearty Nourishment",
+      "url_name": "hearty_nourishment",
       "standing_cost": 25000,
       "syndicates": [
-        "New Loka",
-        "Red Veil"
+        "Red Veil",
+        "Steel Meridian"
       ],
       "best_by_rank": {},
       "volume_48h": 8,
@@ -473,7 +984,58 @@
       "chosen_rank": null,
       "plat_per_standing": 0.0004,
       "score": 0.0032,
-      "market_url": "https://warframe.market/items/jet_stream"
+      "market_url": "https://warframe.market/items/hearty_nourishment"
+    },
+    {
+      "name": "Insatiable",
+      "url_name": "insatiable",
+      "standing_cost": 25000,
+      "syndicates": [
+        "Steel Meridian",
+        "The Perrin Sequence"
+      ],
+      "best_by_rank": {},
+      "volume_48h": 10,
+      "median_48h": 8,
+      "chosen_price": 8,
+      "chosen_rank": null,
+      "plat_per_standing": 0.00032,
+      "score": 0.0032,
+      "market_url": "https://warframe.market/items/insatiable"
+    },
+    {
+      "name": "Safeguard Switch",
+      "url_name": "safeguard_switch",
+      "standing_cost": 25000,
+      "syndicates": [
+        "Arbiters of Hexis",
+        "Red Veil"
+      ],
+      "best_by_rank": {},
+      "volume_48h": 6,
+      "median_48h": 13,
+      "chosen_price": 13,
+      "chosen_rank": null,
+      "plat_per_standing": 0.00052,
+      "score": 0.0031199999999999995,
+      "market_url": "https://warframe.market/items/safeguard_switch"
+    },
+    {
+      "name": "Damage Decoy",
+      "url_name": "damage_decoy",
+      "standing_cost": 25000,
+      "syndicates": [
+        "Arbiters of Hexis",
+        "Red Veil"
+      ],
+      "best_by_rank": {},
+      "volume_48h": 5,
+      "median_48h": 15,
+      "chosen_price": 15,
+      "chosen_rank": null,
+      "plat_per_standing": 0.0006,
+      "score": 0.0029999999999999996,
+      "market_url": "https://warframe.market/items/damage_decoy"
     },
     {
       "name": "Exothermic",
@@ -493,21 +1055,38 @@
       "market_url": "https://warframe.market/items/exothermic"
     },
     {
-      "name": "Conductor",
-      "url_name": "conductor",
+      "name": "Contagion Cloud",
+      "url_name": "contagion_cloud",
       "standing_cost": 25000,
       "syndicates": [
-        "Cephalon Suda",
-        "New Loka"
+        "Red Veil",
+        "Steel Meridian"
       ],
       "best_by_rank": {},
-      "volume_48h": 8,
-      "median_48h": 8,
-      "chosen_price": 8,
+      "volume_48h": 7,
+      "median_48h": 10,
+      "chosen_price": 10,
       "chosen_rank": null,
-      "plat_per_standing": 0.00032,
-      "score": 0.00256,
-      "market_url": "https://warframe.market/items/conductor"
+      "plat_per_standing": 0.0004,
+      "score": 0.0028,
+      "market_url": "https://warframe.market/items/contagion_cloud"
+    },
+    {
+      "name": "Dread Ward",
+      "url_name": "dread_ward",
+      "standing_cost": 25000,
+      "syndicates": [
+        "Red Veil",
+        "Steel Meridian"
+      ],
+      "best_by_rank": {},
+      "volume_48h": 6,
+      "median_48h": 10,
+      "chosen_price": 10,
+      "chosen_rank": null,
+      "plat_per_standing": 0.0004,
+      "score": 0.0024000000000000002,
+      "market_url": "https://warframe.market/items/dread_ward"
     },
     {
       "name": "Entropy Burst",
@@ -543,6 +1122,56 @@
       "market_url": "https://warframe.market/items/pool_of_life"
     },
     {
+      "name": "Smite Infusion",
+      "url_name": "smite_infusion",
+      "standing_cost": 25000,
+      "syndicates": [
+        "New Loka",
+        "Steel Meridian"
+      ],
+      "best_by_rank": {},
+      "volume_48h": 5,
+      "median_48h": 10,
+      "chosen_price": 10,
+      "chosen_rank": null,
+      "plat_per_standing": 0.0004,
+      "score": 0.002,
+      "market_url": "https://warframe.market/items/smite_infusion"
+    },
+    {
+      "name": "Rift Haven",
+      "url_name": "rift_haven",
+      "standing_cost": 25000,
+      "syndicates": [
+        "Arbiters of Hexis",
+        "Cephalon Suda"
+      ],
+      "best_by_rank": {},
+      "volume_48h": 2,
+      "median_48h": 25,
+      "chosen_price": 25,
+      "chosen_rank": null,
+      "plat_per_standing": 0.001,
+      "score": 0.002,
+      "market_url": "https://warframe.market/items/rift_haven"
+    },
+    {
+      "name": "Justice Blades",
+      "url_name": "justice_blades",
+      "standing_cost": 25000,
+      "syndicates": [
+        "Steel Meridian"
+      ],
+      "best_by_rank": {},
+      "volume_48h": 5,
+      "median_48h": 9,
+      "chosen_price": 9,
+      "chosen_rank": null,
+      "plat_per_standing": 0.00036,
+      "score": 0.0018000000000000002,
+      "market_url": "https://warframe.market/items/justice_blades"
+    },
+    {
       "name": "Shattering Justice",
       "url_name": "shattering_justice",
       "standing_cost": 25000,
@@ -559,21 +1188,21 @@
       "market_url": "https://warframe.market/items/shattering_justice"
     },
     {
-      "name": "Reaping Chakram",
-      "url_name": "reaping_chakram",
+      "name": "Endless Lullaby",
+      "url_name": "endless_lullaby",
       "standing_cost": 25000,
       "syndicates": [
-        "Cephalon Suda",
-        "Steel Meridian"
+        "Arbiters of Hexis",
+        "New Loka"
       ],
       "best_by_rank": {},
-      "volume_48h": 3,
-      "median_48h": 14,
-      "chosen_price": 14,
+      "volume_48h": 6,
+      "median_48h": 7,
+      "chosen_price": 7,
       "chosen_rank": null,
-      "plat_per_standing": 0.00056,
+      "plat_per_standing": 0.00028,
       "score": 0.0016799999999999999,
-      "market_url": "https://warframe.market/items/reaping_chakram"
+      "market_url": "https://warframe.market/items/endless_lullaby"
     },
     {
       "name": "Blood Forge",
@@ -593,6 +1222,91 @@
       "market_url": "https://warframe.market/items/blood_forge"
     },
     {
+      "name": "Cataclysmic Continuum",
+      "url_name": "cataclysmic_continuum",
+      "standing_cost": 25000,
+      "syndicates": [
+        "Arbiters of Hexis",
+        "Cephalon Suda"
+      ],
+      "best_by_rank": {},
+      "volume_48h": 4,
+      "median_48h": 10,
+      "chosen_price": 10,
+      "chosen_rank": null,
+      "plat_per_standing": 0.0004,
+      "score": 0.0016,
+      "market_url": "https://warframe.market/items/cataclysmic_continuum"
+    },
+    {
+      "name": "Chaos Sphere",
+      "url_name": "chaos_sphere",
+      "standing_cost": 25000,
+      "syndicates": [
+        "Arbiters of Hexis",
+        "New Loka"
+      ],
+      "best_by_rank": {},
+      "volume_48h": 4,
+      "median_48h": 10,
+      "chosen_price": 10,
+      "chosen_rank": null,
+      "plat_per_standing": 0.0004,
+      "score": 0.0016,
+      "market_url": "https://warframe.market/items/chaos_sphere"
+    },
+    {
+      "name": "Enveloping Cloud",
+      "url_name": "enveloping_cloud",
+      "standing_cost": 25000,
+      "syndicates": [
+        "Arbiters of Hexis",
+        "New Loka"
+      ],
+      "best_by_rank": {},
+      "volume_48h": 4,
+      "median_48h": 10,
+      "chosen_price": 10,
+      "chosen_rank": null,
+      "plat_per_standing": 0.0004,
+      "score": 0.0016,
+      "market_url": "https://warframe.market/items/enveloping_cloud"
+    },
+    {
+      "name": "Transistor Shield",
+      "url_name": "transistor_shield",
+      "standing_cost": 25000,
+      "syndicates": [
+        "Arbiters of Hexis",
+        "Red Veil"
+      ],
+      "best_by_rank": {},
+      "volume_48h": 3,
+      "median_48h": 13,
+      "chosen_price": 13,
+      "chosen_rank": null,
+      "plat_per_standing": 0.00052,
+      "score": 0.0015599999999999998,
+      "market_url": "https://warframe.market/items/transistor_shield"
+    },
+    {
+      "name": "Phoenix Renewal",
+      "url_name": "phoenix_renewal",
+      "standing_cost": 25000,
+      "syndicates": [
+        "New Loka",
+        "Steel Meridian"
+      ],
+      "best_by_rank": {},
+      "volume_48h": 4,
+      "median_48h": 8,
+      "chosen_price": 8,
+      "chosen_rank": null,
+      "plat_per_standing": 0.00032,
+      "score": 0.00128,
+      "market_url": "https://warframe.market/items/phoenix_renewal"
+    },
+    {
       "name": "Titanic Rumbler",
       "url_name": "titanic_rumbler",
       "standing_cost": 25000,
@@ -610,6 +1324,23 @@
       "market_url": "https://warframe.market/items/titanic_rumbler"
     },
     {
+      "name": "Afterburn",
+      "url_name": "afterburn",
+      "standing_cost": 25000,
+      "syndicates": [
+        "Cephalon Suda",
+        "The Perrin Sequence"
+      ],
+      "best_by_rank": {},
+      "volume_48h": 3,
+      "median_48h": 10,
+      "chosen_price": 10,
+      "chosen_rank": null,
+      "plat_per_standing": 0.0004,
+      "score": 0.0012000000000000001,
+      "market_url": "https://warframe.market/items/afterburn"
+    },
+    {
       "name": "Ice Wave Impedance",
       "url_name": "ice_wave_impedance",
       "standing_cost": 25000,
@@ -625,6 +1356,40 @@
       "plat_per_standing": 0.00056,
       "score": 0.00112,
       "market_url": "https://warframe.market/items/ice_wave_impedance"
+    },
+    {
+      "name": "Warding Thurible",
+      "url_name": "warding_thurible",
+      "standing_cost": 25000,
+      "syndicates": [
+        "Arbiters of Hexis",
+        "Red Veil"
+      ],
+      "best_by_rank": {},
+      "volume_48h": 2,
+      "median_48h": 12,
+      "chosen_price": 12,
+      "chosen_rank": null,
+      "plat_per_standing": 0.00048,
+      "score": 0.00096,
+      "market_url": "https://warframe.market/items/warding_thurible"
+    },
+    {
+      "name": "Soul Survivor",
+      "url_name": "soul_survivor",
+      "standing_cost": 25000,
+      "syndicates": [
+        "Red Veil",
+        "The Perrin Sequence"
+      ],
+      "best_by_rank": {},
+      "volume_48h": 2,
+      "median_48h": 11,
+      "chosen_price": 11,
+      "chosen_rank": null,
+      "plat_per_standing": 0.00044,
+      "score": 0.00088,
+      "market_url": "https://warframe.market/items/soul_survivor"
     },
     {
       "name": "Neutralizing Justice",
@@ -660,12 +1425,11 @@
       "market_url": "https://warframe.market/items/radiant_finish"
     },
     {
-      "name": "Hallowed Eruption",
-      "url_name": "hallowed_eruption",
+      "name": "Entropy Detonation",
+      "url_name": "entropy_detonation",
       "standing_cost": 25000,
       "syndicates": [
-        "New Loka",
-        "Steel Meridian"
+        "Cephalon Suda"
       ],
       "best_by_rank": {},
       "volume_48h": 2,
@@ -674,11 +1438,45 @@
       "chosen_rank": null,
       "plat_per_standing": 0.0004,
       "score": 0.0008,
-      "market_url": "https://warframe.market/items/hallowed_eruption"
+      "market_url": "https://warframe.market/items/entropy_detonation"
     },
     {
-      "name": "Revealing Spores",
-      "url_name": "revealing_spores",
+      "name": "Ballistic Bullseye",
+      "url_name": "ballistic_bullseye",
+      "standing_cost": 25000,
+      "syndicates": [
+        "Red Veil",
+        "Steel Meridian"
+      ],
+      "best_by_rank": {},
+      "volume_48h": 3,
+      "median_48h": 6,
+      "chosen_price": 6,
+      "chosen_rank": null,
+      "plat_per_standing": 0.00024,
+      "score": 0.00072,
+      "market_url": "https://warframe.market/items/ballistic_bullseye"
+    },
+    {
+      "name": "Hushed Invisibility",
+      "url_name": "hushed_invisibility",
+      "standing_cost": 25000,
+      "syndicates": [
+        "Arbiters of Hexis",
+        "Red Veil"
+      ],
+      "best_by_rank": {},
+      "volume_48h": 2,
+      "median_48h": 9,
+      "chosen_price": 9,
+      "chosen_rank": null,
+      "plat_per_standing": 0.00036,
+      "score": 0.00072,
+      "market_url": "https://warframe.market/items/hushed_invisibility"
+    },
+    {
+      "name": "Staggering Shield",
+      "url_name": "staggering_shield",
       "standing_cost": 25000,
       "syndicates": [
         "Red Veil",
@@ -691,7 +1489,24 @@
       "chosen_rank": null,
       "plat_per_standing": 0.00032,
       "score": 0.00064,
-      "market_url": "https://warframe.market/items/revealing_spores"
+      "market_url": "https://warframe.market/items/staggering_shield"
+    },
+    {
+      "name": "Repair Dispensary",
+      "url_name": "repair_dispensary",
+      "standing_cost": 25000,
+      "syndicates": [
+        "Arbiters of Hexis",
+        "The Perrin Sequence"
+      ],
+      "best_by_rank": {},
+      "volume_48h": 1,
+      "median_48h": 15,
+      "chosen_price": 15,
+      "chosen_rank": null,
+      "plat_per_standing": 0.0006,
+      "score": 0.0006,
+      "market_url": "https://warframe.market/items/repair_dispensary"
     },
     {
       "name": "Deadly Sequence",
@@ -727,11 +1542,28 @@
       "market_url": "https://warframe.market/items/mending_splinters"
     },
     {
-      "name": "Hushed Invisibility",
-      "url_name": "hushed_invisibility",
+      "name": "Safeguard",
+      "url_name": "safeguard",
       "standing_cost": 25000,
       "syndicates": [
-        "Arbiters of Hexis",
+        "Cephalon Suda",
+        "Steel Meridian"
+      ],
+      "best_by_rank": {},
+      "volume_48h": 1,
+      "median_48h": 10,
+      "chosen_price": 10,
+      "chosen_rank": null,
+      "plat_per_standing": 0.0004,
+      "score": 0.0004,
+      "market_url": "https://warframe.market/items/safeguard"
+    },
+    {
+      "name": "Anchored Glide",
+      "url_name": "anchored_glide",
+      "standing_cost": 25000,
+      "syndicates": [
+        "New Loka",
         "Red Veil"
       ],
       "best_by_rank": {},
@@ -741,7 +1573,55 @@
       "chosen_rank": null,
       "plat_per_standing": 0.0004,
       "score": 0.0004,
-      "market_url": "https://warframe.market/items/hushed_invisibility"
+      "market_url": "https://warframe.market/items/anchored_glide"
+    },
+    {
+      "name": "Bright Purity",
+      "url_name": "bright_purity",
+      "standing_cost": 25000,
+      "syndicates": [
+        "New Loka"
+      ],
+      "best_by_rank": {},
+      "volume_48h": 1,
+      "median_48h": 9,
+      "chosen_price": 9,
+      "chosen_rank": null,
+      "plat_per_standing": 0.00036,
+      "score": 0.00036,
+      "market_url": "https://warframe.market/items/bright_purity"
+    },
+    {
+      "name": "Blade of Truth",
+      "url_name": "blade_of_truth",
+      "standing_cost": 25000,
+      "syndicates": [
+        "Arbiters of Hexis"
+      ],
+      "best_by_rank": {},
+      "volume_48h": 1,
+      "median_48h": 8,
+      "chosen_price": 8,
+      "chosen_rank": null,
+      "plat_per_standing": 0.00032,
+      "score": 0.00032,
+      "market_url": "https://warframe.market/items/blade_of_truth"
+    },
+    {
+      "name": "Stockpiled Blight",
+      "url_name": "stockpiled_blight",
+      "standing_cost": 25000,
+      "syndicates": [
+        "Red Veil"
+      ],
+      "best_by_rank": {},
+      "volume_48h": 1,
+      "median_48h": 5,
+      "chosen_price": 5,
+      "chosen_rank": null,
+      "plat_per_standing": 0.0002,
+      "score": 0.0002,
+      "market_url": "https://warframe.market/items/stockpiled_blight"
     },
     {
       "name": "Void Relics",
@@ -760,23 +1640,6 @@
       "market_url": "https://warframe.market/items/void_relics"
     },
     {
-      "name": "Squad_Health_Restore",
-      "url_name": "squad_health_restore",
-      "standing_cost": 25000,
-      "syndicates": [
-        "New Loka",
-        "Steel Meridian"
-      ],
-      "best_by_rank": {},
-      "volume_48h": null,
-      "median_48h": null,
-      "chosen_price": null,
-      "chosen_rank": null,
-      "plat_per_standing": null,
-      "score": null,
-      "market_url": "https://warframe.market/items/squad_health_restore"
-    },
-    {
       "name": "Tectonic Fracture",
       "url_name": "tectonic_fracture",
       "standing_cost": 25000,
@@ -792,6 +1655,23 @@
       "plat_per_standing": null,
       "score": null,
       "market_url": "https://warframe.market/items/tectonic_fracture"
+    },
+    {
+      "name": "Squad_Health_Restore",
+      "url_name": "squad_health_restore",
+      "standing_cost": 25000,
+      "syndicates": [
+        "New Loka",
+        "Steel Meridian"
+      ],
+      "best_by_rank": {},
+      "volume_48h": null,
+      "median_48h": null,
+      "chosen_price": null,
+      "chosen_rank": null,
+      "plat_per_standing": null,
+      "score": null,
+      "market_url": "https://warframe.market/items/squad_health_restore"
     },
     {
       "name": "Immolated Radiance",
@@ -828,210 +1708,6 @@
       "market_url": "https://warframe.market/items/surging_dash"
     },
     {
-      "name": "Dread Ward",
-      "url_name": "dread_ward",
-      "standing_cost": 25000,
-      "syndicates": [
-        "Red Veil",
-        "Steel Meridian"
-      ],
-      "best_by_rank": {},
-      "volume_48h": null,
-      "median_48h": null,
-      "chosen_price": null,
-      "chosen_rank": null,
-      "plat_per_standing": null,
-      "score": null,
-      "market_url": "https://warframe.market/items/dread_ward"
-    },
-    {
-      "name": "Blending Talons",
-      "url_name": "blending_talons",
-      "standing_cost": 25000,
-      "syndicates": [
-        "Red Veil",
-        "Steel Meridian"
-      ],
-      "best_by_rank": {},
-      "volume_48h": null,
-      "median_48h": null,
-      "chosen_price": null,
-      "chosen_rank": null,
-      "plat_per_standing": null,
-      "score": null,
-      "market_url": "https://warframe.market/items/blending_talons"
-    },
-    {
-      "name": "Gourmand",
-      "url_name": "gourmand",
-      "standing_cost": 25000,
-      "syndicates": [
-        "Red Veil",
-        "Steel Meridian"
-      ],
-      "best_by_rank": {},
-      "volume_48h": null,
-      "median_48h": null,
-      "chosen_price": null,
-      "chosen_rank": null,
-      "plat_per_standing": null,
-      "score": null,
-      "market_url": "https://warframe.market/items/gourmand"
-    },
-    {
-      "name": "Hearty Nourishment",
-      "url_name": "hearty_nourishment",
-      "standing_cost": 25000,
-      "syndicates": [
-        "Red Veil",
-        "Steel Meridian"
-      ],
-      "best_by_rank": {},
-      "volume_48h": null,
-      "median_48h": null,
-      "chosen_price": null,
-      "chosen_rank": null,
-      "plat_per_standing": null,
-      "score": null,
-      "market_url": "https://warframe.market/items/hearty_nourishment"
-    },
-    {
-      "name": "Accumulating Whipclaw",
-      "url_name": "accumulating_whipclaw",
-      "standing_cost": 25000,
-      "syndicates": [
-        "Red Veil",
-        "Steel Meridian"
-      ],
-      "best_by_rank": {},
-      "volume_48h": null,
-      "median_48h": null,
-      "chosen_price": null,
-      "chosen_rank": null,
-      "plat_per_standing": null,
-      "score": null,
-      "market_url": "https://warframe.market/items/accumulating_whipclaw"
-    },
-    {
-      "name": "Catapult",
-      "url_name": "catapult",
-      "standing_cost": 25000,
-      "syndicates": [
-        "Red Veil",
-        "Steel Meridian"
-      ],
-      "best_by_rank": {},
-      "volume_48h": null,
-      "median_48h": null,
-      "chosen_price": null,
-      "chosen_rank": null,
-      "plat_per_standing": null,
-      "score": null,
-      "market_url": "https://warframe.market/items/catapult"
-    },
-    {
-      "name": "Venari Bodyguard",
-      "url_name": "venari_bodyguard",
-      "standing_cost": 25000,
-      "syndicates": [
-        "Red Veil",
-        "Steel Meridian"
-      ],
-      "best_by_rank": {},
-      "volume_48h": null,
-      "median_48h": null,
-      "chosen_price": null,
-      "chosen_rank": null,
-      "plat_per_standing": null,
-      "score": null,
-      "market_url": "https://warframe.market/items/venari_bodyguard"
-    },
-    {
-      "name": "Ballistic Bullseye",
-      "url_name": "ballistic_bullseye",
-      "standing_cost": 25000,
-      "syndicates": [
-        "Red Veil",
-        "Steel Meridian"
-      ],
-      "best_by_rank": {},
-      "volume_48h": null,
-      "median_48h": null,
-      "chosen_price": null,
-      "chosen_rank": null,
-      "plat_per_standing": null,
-      "score": null,
-      "market_url": "https://warframe.market/items/ballistic_bullseye"
-    },
-    {
-      "name": "Wrath of Ukko",
-      "url_name": "wrath_of_ukko",
-      "standing_cost": 25000,
-      "syndicates": [
-        "New Loka",
-        "Steel Meridian"
-      ],
-      "best_by_rank": {},
-      "volume_48h": null,
-      "median_48h": null,
-      "chosen_price": null,
-      "chosen_rank": null,
-      "plat_per_standing": null,
-      "score": null,
-      "market_url": "https://warframe.market/items/wrath_of_ukko"
-    },
-    {
-      "name": "Muzzle Flash",
-      "url_name": "muzzle_flash",
-      "standing_cost": 25000,
-      "syndicates": [
-        "Red Veil",
-        "Steel Meridian"
-      ],
-      "best_by_rank": {},
-      "volume_48h": null,
-      "median_48h": null,
-      "chosen_price": null,
-      "chosen_rank": null,
-      "plat_per_standing": null,
-      "score": null,
-      "market_url": "https://warframe.market/items/muzzle_flash"
-    },
-    {
-      "name": "Mesa's Waltz",
-      "url_name": "mesas_waltz",
-      "standing_cost": 25000,
-      "syndicates": [
-        "Red Veil",
-        "Steel Meridian"
-      ],
-      "best_by_rank": {},
-      "volume_48h": null,
-      "median_48h": null,
-      "chosen_price": null,
-      "chosen_rank": null,
-      "plat_per_standing": null,
-      "score": null,
-      "market_url": "https://warframe.market/items/mesas_waltz"
-    },
-    {
-      "name": "Staggering Shield",
-      "url_name": "staggering_shield",
-      "standing_cost": 25000,
-      "syndicates": [
-        "Red Veil",
-        "Steel Meridian"
-      ],
-      "best_by_rank": {},
-      "volume_48h": null,
-      "median_48h": null,
-      "chosen_price": null,
-      "chosen_rank": null,
-      "plat_per_standing": null,
-      "score": null,
-      "market_url": "https://warframe.market/items/staggering_shield"
-    },
-    {
       "name": "Pyroclastic Flow",
       "url_name": "pyroclastic_flow",
       "standing_cost": 25000,
@@ -1049,8 +1725,8 @@
       "market_url": "https://warframe.market/items/pyroclastic_flow"
     },
     {
-      "name": "Safeguard",
-      "url_name": "safeguard",
+      "name": "Reaping Chakram",
+      "url_name": "reaping_chakram",
       "standing_cost": 25000,
       "syndicates": [
         "Cephalon Suda",
@@ -1063,7 +1739,7 @@
       "chosen_rank": null,
       "plat_per_standing": null,
       "score": null,
-      "market_url": "https://warframe.market/items/safeguard"
+      "market_url": "https://warframe.market/items/reaping_chakram"
     },
     {
       "name": "Divine Retribution",
@@ -1083,40 +1759,6 @@
       "market_url": "https://warframe.market/items/divine_retribution"
     },
     {
-      "name": "Teeming Virulence",
-      "url_name": "teeming_virulence",
-      "standing_cost": 25000,
-      "syndicates": [
-        "Steel Meridian",
-        "The Perrin Sequence"
-      ],
-      "best_by_rank": {},
-      "volume_48h": null,
-      "median_48h": null,
-      "chosen_price": null,
-      "chosen_rank": null,
-      "plat_per_standing": null,
-      "score": null,
-      "market_url": "https://warframe.market/items/teeming_virulence"
-    },
-    {
-      "name": "Controlled Slide",
-      "url_name": "controlled_slide",
-      "standing_cost": 25000,
-      "syndicates": [
-        "Cephalon Suda",
-        "Steel Meridian"
-      ],
-      "best_by_rank": {},
-      "volume_48h": null,
-      "median_48h": null,
-      "chosen_price": null,
-      "chosen_rank": null,
-      "plat_per_standing": null,
-      "score": null,
-      "market_url": "https://warframe.market/items/controlled_slide"
-    },
-    {
       "name": "Larva Burst",
       "url_name": "larva_burst",
       "standing_cost": 25000,
@@ -1134,8 +1776,8 @@
       "market_url": "https://warframe.market/items/larva_burst"
     },
     {
-      "name": "Insatiable",
-      "url_name": "insatiable",
+      "name": "Parasitic Vitality",
+      "url_name": "parasitic_vitality",
       "standing_cost": 25000,
       "syndicates": [
         "Steel Meridian",
@@ -1148,7 +1790,7 @@
       "chosen_rank": null,
       "plat_per_standing": null,
       "score": null,
-      "market_url": "https://warframe.market/items/insatiable"
+      "market_url": "https://warframe.market/items/parasitic_vitality"
     },
     {
       "name": "Abundant Mutation",
@@ -1185,12 +1827,12 @@
       "market_url": "https://warframe.market/items/neutron_star"
     },
     {
-      "name": "Antimatter Absorb",
-      "url_name": "antimatter_absorb",
+      "name": "Teeming Virulence",
+      "url_name": "teeming_virulence",
       "standing_cost": 25000,
       "syndicates": [
-        "Cephalon Suda",
-        "Steel Meridian"
+        "Steel Meridian",
+        "The Perrin Sequence"
       ],
       "best_by_rank": {},
       "volume_48h": null,
@@ -1199,24 +1841,7 @@
       "chosen_rank": null,
       "plat_per_standing": null,
       "score": null,
-      "market_url": "https://warframe.market/items/antimatter_absorb"
-    },
-    {
-      "name": "Escape Velocity",
-      "url_name": "escape_velocity",
-      "standing_cost": 25000,
-      "syndicates": [
-        "Cephalon Suda",
-        "Steel Meridian"
-      ],
-      "best_by_rank": {},
-      "volume_48h": null,
-      "median_48h": null,
-      "chosen_price": null,
-      "chosen_rank": null,
-      "plat_per_standing": null,
-      "score": null,
-      "market_url": "https://warframe.market/items/escape_velocity"
+      "market_url": "https://warframe.market/items/teeming_virulence"
     },
     {
       "name": "Molecular Fission",
@@ -1236,11 +1861,11 @@
       "market_url": "https://warframe.market/items/molecular_fission"
     },
     {
-      "name": "Smite Infusion",
-      "url_name": "smite_infusion",
+      "name": "Antimatter Absorb",
+      "url_name": "antimatter_absorb",
       "standing_cost": 25000,
       "syndicates": [
-        "New Loka",
+        "Cephalon Suda",
         "Steel Meridian"
       ],
       "best_by_rank": {},
@@ -1250,11 +1875,11 @@
       "chosen_rank": null,
       "plat_per_standing": null,
       "score": null,
-      "market_url": "https://warframe.market/items/smite_infusion"
+      "market_url": "https://warframe.market/items/antimatter_absorb"
     },
     {
-      "name": "Phoenix Renewal",
-      "url_name": "phoenix_renewal",
+      "name": "Hallowed Eruption",
+      "url_name": "hallowed_eruption",
       "standing_cost": 25000,
       "syndicates": [
         "New Loka",
@@ -1267,7 +1892,7 @@
       "chosen_rank": null,
       "plat_per_standing": null,
       "score": null,
-      "market_url": "https://warframe.market/items/phoenix_renewal"
+      "market_url": "https://warframe.market/items/hallowed_eruption"
     },
     {
       "name": "Hallowed Reckoning",
@@ -1304,40 +1929,6 @@
       "market_url": "https://warframe.market/items/ironclad_charge"
     },
     {
-      "name": "Iron Shrapnel",
-      "url_name": "iron_shrapnel",
-      "standing_cost": 25000,
-      "syndicates": [
-        "Steel Meridian",
-        "The Perrin Sequence"
-      ],
-      "best_by_rank": {},
-      "volume_48h": null,
-      "median_48h": null,
-      "chosen_price": null,
-      "chosen_rank": null,
-      "plat_per_standing": null,
-      "score": null,
-      "market_url": "https://warframe.market/items/iron_shrapnel"
-    },
-    {
-      "name": "Piercing Roar",
-      "url_name": "piercing_roar",
-      "standing_cost": 25000,
-      "syndicates": [
-        "Steel Meridian",
-        "The Perrin Sequence"
-      ],
-      "best_by_rank": {},
-      "volume_48h": null,
-      "median_48h": null,
-      "chosen_price": null,
-      "chosen_rank": null,
-      "plat_per_standing": null,
-      "score": null,
-      "market_url": "https://warframe.market/items/piercing_roar"
-    },
-    {
       "name": "Reinforcing Stomp",
       "url_name": "reinforcing_stomp",
       "standing_cost": 25000,
@@ -1355,12 +1946,12 @@
       "market_url": "https://warframe.market/items/reinforcing_stomp"
     },
     {
-      "name": "Venom Dose",
-      "url_name": "venom_dose",
+      "name": "Iron Shrapnel",
+      "url_name": "iron_shrapnel",
       "standing_cost": 25000,
       "syndicates": [
-        "Red Veil",
-        "Steel Meridian"
+        "Steel Meridian",
+        "The Perrin Sequence"
       ],
       "best_by_rank": {},
       "volume_48h": null,
@@ -1369,7 +1960,7 @@
       "chosen_rank": null,
       "plat_per_standing": null,
       "score": null,
-      "market_url": "https://warframe.market/items/venom_dose"
+      "market_url": "https://warframe.market/items/iron_shrapnel"
     },
     {
       "name": "Regenerative Molt",
@@ -1389,8 +1980,8 @@
       "market_url": "https://warframe.market/items/regenerative_molt"
     },
     {
-      "name": "Contagion Cloud",
-      "url_name": "contagion_cloud",
+      "name": "Revealing Spores",
+      "url_name": "revealing_spores",
       "standing_cost": 25000,
       "syndicates": [
         "Red Veil",
@@ -1403,7 +1994,7 @@
       "chosen_rank": null,
       "plat_per_standing": null,
       "score": null,
-      "market_url": "https://warframe.market/items/contagion_cloud"
+      "market_url": "https://warframe.market/items/revealing_spores"
     },
     {
       "name": "Ulfrun's Endurance",
@@ -1457,6 +2048,26 @@
       "market_url": "https://warframe.market/items/the_relentless_lost"
     },
     {
+      "name": "Void Relic",
+      "url_name": "void_relic",
+      "standing_cost": 20000,
+      "syndicates": [
+        "Arbiters of Hexis",
+        "Cephalon Suda",
+        "New Loka",
+        "Red Veil",
+        "The Perrin Sequence"
+      ],
+      "best_by_rank": {},
+      "volume_48h": null,
+      "median_48h": null,
+      "chosen_price": null,
+      "chosen_rank": null,
+      "plat_per_standing": null,
+      "score": null,
+      "market_url": "https://warframe.market/items/void_relic"
+    },
+    {
       "name": "Vosfor",
       "url_name": "vosfor",
       "standing_cost": 30000,
@@ -1478,26 +2089,6 @@
       "market_url": "https://warframe.market/items/vosfor"
     },
     {
-      "name": "Void Relic",
-      "url_name": "void_relic",
-      "standing_cost": 20000,
-      "syndicates": [
-        "Arbiters of Hexis",
-        "Cephalon Suda",
-        "New Loka",
-        "Red Veil",
-        "The Perrin Sequence"
-      ],
-      "best_by_rank": {},
-      "volume_48h": null,
-      "median_48h": null,
-      "chosen_price": null,
-      "chosen_rank": null,
-      "plat_per_standing": null,
-      "score": null,
-      "market_url": "https://warframe.market/items/void_relic"
-    },
-    {
       "name": "Squad Energy Restore (Large)",
       "url_name": "squad_energy_restore_large",
       "standing_cost": 25000,
@@ -1515,8 +2106,8 @@
       "market_url": "https://warframe.market/items/squad_energy_restore_large"
     },
     {
-      "name": "Blade of Truth",
-      "url_name": "blade_of_truth",
+      "name": "Gilded Truth",
+      "url_name": "gilded_truth",
       "standing_cost": 25000,
       "syndicates": [
         "Arbiters of Hexis"
@@ -1528,7 +2119,7 @@
       "chosen_rank": null,
       "plat_per_standing": null,
       "score": null,
-      "market_url": "https://warframe.market/items/blade_of_truth"
+      "market_url": "https://warframe.market/items/gilded_truth"
     },
     {
       "name": "Stinging Truth",
@@ -1580,8 +2171,8 @@
       "market_url": "https://warframe.market/items/seeking_shuriken"
     },
     {
-      "name": "Smoke Shadow",
-      "url_name": "smoke_shadow",
+      "name": "Fatal Teleport",
+      "url_name": "fatal_teleport",
       "standing_cost": 25000,
       "syndicates": [
         "Arbiters of Hexis",
@@ -1594,7 +2185,7 @@
       "chosen_rank": null,
       "plat_per_standing": null,
       "score": null,
-      "market_url": "https://warframe.market/items/smoke_shadow"
+      "market_url": "https://warframe.market/items/fatal_teleport"
     },
     {
       "name": "Rising Storm",
@@ -1631,8 +2222,8 @@
       "market_url": "https://warframe.market/items/elusive_retribution"
     },
     {
-      "name": "Endless Lullaby",
-      "url_name": "endless_lullaby",
+      "name": "Reactive Storm",
+      "url_name": "reactive_storm",
       "standing_cost": 25000,
       "syndicates": [
         "Arbiters of Hexis",
@@ -1645,7 +2236,7 @@
       "chosen_rank": null,
       "plat_per_standing": null,
       "score": null,
-      "market_url": "https://warframe.market/items/endless_lullaby"
+      "market_url": "https://warframe.market/items/reactive_storm"
     },
     {
       "name": "Duality",
@@ -1665,8 +2256,8 @@
       "market_url": "https://warframe.market/items/duality"
     },
     {
-      "name": "Calm & Frenzy",
-      "url_name": "calm__frenzy",
+      "name": "Peaceful Provocation",
+      "url_name": "peaceful_provocation",
       "standing_cost": 25000,
       "syndicates": [
         "Arbiters of Hexis",
@@ -1679,7 +2270,7 @@
       "chosen_rank": null,
       "plat_per_standing": null,
       "score": null,
-      "market_url": "https://warframe.market/items/calm__frenzy"
+      "market_url": "https://warframe.market/items/peaceful_provocation"
     },
     {
       "name": "Warrior's Rest",
@@ -1699,40 +2290,6 @@
       "market_url": "https://warframe.market/items/warriors_rest"
     },
     {
-      "name": "Reactive Storm",
-      "url_name": "reactive_storm",
-      "standing_cost": 25000,
-      "syndicates": [
-        "Arbiters of Hexis",
-        "New Loka"
-      ],
-      "best_by_rank": {},
-      "volume_48h": null,
-      "median_48h": null,
-      "chosen_price": null,
-      "chosen_rank": null,
-      "plat_per_standing": null,
-      "score": null,
-      "market_url": "https://warframe.market/items/reactive_storm"
-    },
-    {
-      "name": "Peaceful Provocation",
-      "url_name": "peaceful_provocation",
-      "standing_cost": 25000,
-      "syndicates": [
-        "Arbiters of Hexis",
-        "New Loka"
-      ],
-      "best_by_rank": {},
-      "volume_48h": null,
-      "median_48h": null,
-      "chosen_price": null,
-      "chosen_rank": null,
-      "plat_per_standing": null,
-      "score": null,
-      "market_url": "https://warframe.market/items/peaceful_provocation"
-    },
-    {
       "name": "Shattered Storm",
       "url_name": "shattered_storm",
       "standing_cost": 25000,
@@ -1750,8 +2307,8 @@
       "market_url": "https://warframe.market/items/shattered_storm"
     },
     {
-      "name": "Spectrosiphon",
-      "url_name": "spectrosiphon",
+      "name": "Calm & Frenzy",
+      "url_name": "calm__frenzy",
       "standing_cost": 25000,
       "syndicates": [
         "Arbiters of Hexis",
@@ -1764,7 +2321,7 @@
       "chosen_rank": null,
       "plat_per_standing": null,
       "score": null,
-      "market_url": "https://warframe.market/items/spectrosiphon"
+      "market_url": "https://warframe.market/items/calm__frenzy"
     },
     {
       "name": "Mach Crash",
@@ -1801,23 +2358,6 @@
       "market_url": "https://warframe.market/items/thermal_transfer"
     },
     {
-      "name": "Cathode Current",
-      "url_name": "cathode_current",
-      "standing_cost": 25000,
-      "syndicates": [
-        "Arbiters of Hexis",
-        "The Perrin Sequence"
-      ],
-      "best_by_rank": {},
-      "volume_48h": null,
-      "median_48h": null,
-      "chosen_price": null,
-      "chosen_rank": null,
-      "plat_per_standing": null,
-      "score": null,
-      "market_url": "https://warframe.market/items/cathode_current"
-    },
-    {
       "name": "Tribunal",
       "url_name": "tribunal",
       "standing_cost": 25000,
@@ -1835,12 +2375,12 @@
       "market_url": "https://warframe.market/items/tribunal"
     },
     {
-      "name": "Warding Thurible",
-      "url_name": "warding_thurible",
+      "name": "Desiccation's Curse",
+      "url_name": "desiccations_curse",
       "standing_cost": 25000,
       "syndicates": [
         "Arbiters of Hexis",
-        "Red Veil"
+        "The Perrin Sequence"
       ],
       "best_by_rank": {},
       "volume_48h": null,
@@ -1849,24 +2389,7 @@
       "chosen_rank": null,
       "plat_per_standing": null,
       "score": null,
-      "market_url": "https://warframe.market/items/warding_thurible"
-    },
-    {
-      "name": "Lasting Covenant",
-      "url_name": "lasting_covenant",
-      "standing_cost": 25000,
-      "syndicates": [
-        "Arbiters of Hexis",
-        "Red Veil"
-      ],
-      "best_by_rank": {},
-      "volume_48h": null,
-      "median_48h": null,
-      "chosen_price": null,
-      "chosen_rank": null,
-      "plat_per_standing": null,
-      "score": null,
-      "market_url": "https://warframe.market/items/lasting_covenant"
+      "market_url": "https://warframe.market/items/desiccations_curse"
     },
     {
       "name": "Elemental Sandstorm",
@@ -1886,40 +2409,6 @@
       "market_url": "https://warframe.market/items/elemental_sandstorm"
     },
     {
-      "name": "Negation Armor",
-      "url_name": "negation_armor",
-      "standing_cost": 25000,
-      "syndicates": [
-        "Arbiters of Hexis",
-        "The Perrin Sequence"
-      ],
-      "best_by_rank": {},
-      "volume_48h": null,
-      "median_48h": null,
-      "chosen_price": null,
-      "chosen_rank": null,
-      "plat_per_standing": null,
-      "score": null,
-      "market_url": "https://warframe.market/items/negation_armor"
-    },
-    {
-      "name": "Rift Haven",
-      "url_name": "rift_haven",
-      "standing_cost": 25000,
-      "syndicates": [
-        "Arbiters of Hexis",
-        "Cephalon Suda"
-      ],
-      "best_by_rank": {},
-      "volume_48h": null,
-      "median_48h": null,
-      "chosen_price": null,
-      "chosen_rank": null,
-      "plat_per_standing": null,
-      "score": null,
-      "market_url": "https://warframe.market/items/rift_haven"
-    },
-    {
       "name": "Rift Torrent",
       "url_name": "rift_torrent",
       "standing_cost": 25000,
@@ -1935,23 +2424,6 @@
       "plat_per_standing": null,
       "score": null,
       "market_url": "https://warframe.market/items/rift_torrent"
-    },
-    {
-      "name": "Cataclysmic Continuum",
-      "url_name": "cataclysmic_continuum",
-      "standing_cost": 25000,
-      "syndicates": [
-        "Arbiters of Hexis",
-        "Cephalon Suda"
-      ],
-      "best_by_rank": {},
-      "volume_48h": null,
-      "median_48h": null,
-      "chosen_price": null,
-      "chosen_rank": null,
-      "plat_per_standing": null,
-      "score": null,
-      "market_url": "https://warframe.market/items/cataclysmic_continuum"
     },
     {
       "name": "Savior Decoy",
@@ -1971,12 +2443,12 @@
       "market_url": "https://warframe.market/items/savior_decoy"
     },
     {
-      "name": "Damage Decoy",
-      "url_name": "damage_decoy",
+      "name": "Negation Armor",
+      "url_name": "negation_armor",
       "standing_cost": 25000,
       "syndicates": [
         "Arbiters of Hexis",
-        "Red Veil"
+        "The Perrin Sequence"
       ],
       "best_by_rank": {},
       "volume_48h": null,
@@ -1985,24 +2457,7 @@
       "chosen_rank": null,
       "plat_per_standing": null,
       "score": null,
-      "market_url": "https://warframe.market/items/damage_decoy"
-    },
-    {
-      "name": "Safeguard Switch",
-      "url_name": "safeguard_switch",
-      "standing_cost": 25000,
-      "syndicates": [
-        "Arbiters of Hexis",
-        "Red Veil"
-      ],
-      "best_by_rank": {},
-      "volume_48h": null,
-      "median_48h": null,
-      "chosen_price": null,
-      "chosen_rank": null,
-      "plat_per_standing": null,
-      "score": null,
-      "market_url": "https://warframe.market/items/safeguard_switch"
+      "market_url": "https://warframe.market/items/negation_armor"
     },
     {
       "name": "Irradiating Disarm",
@@ -2022,74 +2477,6 @@
       "market_url": "https://warframe.market/items/irradiating_disarm"
     },
     {
-      "name": "Hall of Malevolence",
-      "url_name": "hall_of_malevolence",
-      "standing_cost": 25000,
-      "syndicates": [
-        "Arbiters of Hexis",
-        "Cephalon Suda"
-      ],
-      "best_by_rank": {},
-      "volume_48h": null,
-      "median_48h": null,
-      "chosen_price": null,
-      "chosen_rank": null,
-      "plat_per_standing": null,
-      "score": null,
-      "market_url": "https://warframe.market/items/hall_of_malevolence"
-    },
-    {
-      "name": "Explosive Legerdemain",
-      "url_name": "explosive_legerdemain",
-      "standing_cost": 25000,
-      "syndicates": [
-        "Arbiters of Hexis",
-        "Cephalon Suda"
-      ],
-      "best_by_rank": {},
-      "volume_48h": null,
-      "median_48h": null,
-      "chosen_price": null,
-      "chosen_rank": null,
-      "plat_per_standing": null,
-      "score": null,
-      "market_url": "https://warframe.market/items/explosive_legerdemain"
-    },
-    {
-      "name": "Total Eclipse",
-      "url_name": "total_eclipse",
-      "standing_cost": 25000,
-      "syndicates": [
-        "Arbiters of Hexis",
-        "Cephalon Suda"
-      ],
-      "best_by_rank": {},
-      "volume_48h": null,
-      "median_48h": null,
-      "chosen_price": null,
-      "chosen_rank": null,
-      "plat_per_standing": null,
-      "score": null,
-      "market_url": "https://warframe.market/items/total_eclipse"
-    },
-    {
-      "name": "Mind Freak",
-      "url_name": "mind_freak",
-      "standing_cost": 25000,
-      "syndicates": [
-        "Arbiters of Hexis",
-        "New Loka"
-      ],
-      "best_by_rank": {},
-      "volume_48h": null,
-      "median_48h": null,
-      "chosen_price": null,
-      "chosen_rank": null,
-      "plat_per_standing": null,
-      "score": null,
-      "market_url": "https://warframe.market/items/mind_freak"
-    },
-    {
       "name": "Pacifying Bolts",
       "url_name": "pacifying_bolts",
       "standing_cost": 25000,
@@ -2105,57 +2492,6 @@
       "plat_per_standing": null,
       "score": null,
       "market_url": "https://warframe.market/items/pacifying_bolts"
-    },
-    {
-      "name": "Chaos Sphere",
-      "url_name": "chaos_sphere",
-      "standing_cost": 25000,
-      "syndicates": [
-        "Arbiters of Hexis",
-        "New Loka"
-      ],
-      "best_by_rank": {},
-      "volume_48h": null,
-      "median_48h": null,
-      "chosen_price": null,
-      "chosen_rank": null,
-      "plat_per_standing": null,
-      "score": null,
-      "market_url": "https://warframe.market/items/chaos_sphere"
-    },
-    {
-      "name": "Repair Dispensary",
-      "url_name": "repair_dispensary",
-      "standing_cost": 25000,
-      "syndicates": [
-        "Arbiters of Hexis",
-        "The Perrin Sequence"
-      ],
-      "best_by_rank": {},
-      "volume_48h": null,
-      "median_48h": null,
-      "chosen_price": null,
-      "chosen_rank": null,
-      "plat_per_standing": null,
-      "score": null,
-      "market_url": "https://warframe.market/items/repair_dispensary"
-    },
-    {
-      "name": "Temporal Erosion",
-      "url_name": "temporal_erosion",
-      "standing_cost": 25000,
-      "syndicates": [
-        "Arbiters of Hexis",
-        "The Perrin Sequence"
-      ],
-      "best_by_rank": {},
-      "volume_48h": null,
-      "median_48h": null,
-      "chosen_price": null,
-      "chosen_rank": null,
-      "plat_per_standing": null,
-      "score": null,
-      "market_url": "https://warframe.market/items/temporal_erosion"
     },
     {
       "name": "Axios Javelineers",
@@ -2175,8 +2511,8 @@
       "market_url": "https://warframe.market/items/axios_javelineers"
     },
     {
-      "name": "Intrepid Stand",
-      "url_name": "intrepid_stand",
+      "name": "Celestial Stomp",
+      "url_name": "celestial_stomp",
       "standing_cost": 25000,
       "syndicates": [
         "Arbiters of Hexis",
@@ -2189,75 +2525,7 @@
       "chosen_rank": null,
       "plat_per_standing": null,
       "score": null,
-      "market_url": "https://warframe.market/items/intrepid_stand"
-    },
-    {
-      "name": "Shock Trooper",
-      "url_name": "shock_trooper",
-      "standing_cost": 25000,
-      "syndicates": [
-        "Arbiters of Hexis",
-        "Red Veil"
-      ],
-      "best_by_rank": {},
-      "volume_48h": null,
-      "median_48h": null,
-      "chosen_price": null,
-      "chosen_rank": null,
-      "plat_per_standing": null,
-      "score": null,
-      "market_url": "https://warframe.market/items/shock_trooper"
-    },
-    {
-      "name": "Shocking Speed",
-      "url_name": "shocking_speed",
-      "standing_cost": 25000,
-      "syndicates": [
-        "Arbiters of Hexis",
-        "Red Veil"
-      ],
-      "best_by_rank": {},
-      "volume_48h": null,
-      "median_48h": null,
-      "chosen_price": null,
-      "chosen_rank": null,
-      "plat_per_standing": null,
-      "score": null,
-      "market_url": "https://warframe.market/items/shocking_speed"
-    },
-    {
-      "name": "Transistor Shield",
-      "url_name": "transistor_shield",
-      "standing_cost": 25000,
-      "syndicates": [
-        "Arbiters of Hexis",
-        "Red Veil"
-      ],
-      "best_by_rank": {},
-      "volume_48h": null,
-      "median_48h": null,
-      "chosen_price": null,
-      "chosen_rank": null,
-      "plat_per_standing": null,
-      "score": null,
-      "market_url": "https://warframe.market/items/transistor_shield"
-    },
-    {
-      "name": "Capacitance",
-      "url_name": "capacitance",
-      "standing_cost": 25000,
-      "syndicates": [
-        "Arbiters of Hexis",
-        "Red Veil"
-      ],
-      "best_by_rank": {},
-      "volume_48h": null,
-      "median_48h": null,
-      "chosen_price": null,
-      "chosen_rank": null,
-      "plat_per_standing": null,
-      "score": null,
-      "market_url": "https://warframe.market/items/capacitance"
+      "market_url": "https://warframe.market/items/celestial_stomp"
     },
     {
       "name": "Primal Rage",
@@ -2277,23 +2545,6 @@
       "market_url": "https://warframe.market/items/primal_rage"
     },
     {
-      "name": "Enveloping Cloud",
-      "url_name": "enveloping_cloud",
-      "standing_cost": 25000,
-      "syndicates": [
-        "Arbiters of Hexis",
-        "New Loka"
-      ],
-      "best_by_rank": {},
-      "volume_48h": null,
-      "median_48h": null,
-      "chosen_price": null,
-      "chosen_rank": null,
-      "plat_per_standing": null,
-      "score": null,
-      "market_url": "https://warframe.market/items/enveloping_cloud"
-    },
-    {
       "name": "Squad Shield Restore",
       "url_name": "squad_shield_restore",
       "standing_cost": 25000,
@@ -2308,22 +2559,6 @@
       "plat_per_standing": null,
       "score": null,
       "market_url": "https://warframe.market/items/squad_shield_restore"
-    },
-    {
-      "name": "Entropy Spike",
-      "url_name": "entropy_spike",
-      "standing_cost": 25000,
-      "syndicates": [
-        "Cephalon Suda"
-      ],
-      "best_by_rank": {},
-      "volume_48h": null,
-      "median_48h": null,
-      "chosen_price": null,
-      "chosen_rank": null,
-      "plat_per_standing": null,
-      "score": null,
-      "market_url": "https://warframe.market/items/entropy_spike"
     },
     {
       "name": "Entropy Flight",
@@ -2342,8 +2577,8 @@
       "market_url": "https://warframe.market/items/entropy_flight"
     },
     {
-      "name": "Entropy Detonation",
-      "url_name": "entropy_detonation",
+      "name": "Entropy Spike",
+      "url_name": "entropy_spike",
       "standing_cost": 25000,
       "syndicates": [
         "Cephalon Suda"
@@ -2355,7 +2590,7 @@
       "chosen_rank": null,
       "plat_per_standing": null,
       "score": null,
-      "market_url": "https://warframe.market/items/entropy_detonation"
+      "market_url": "https://warframe.market/items/entropy_spike"
     },
     {
       "name": "Sonic Fracture",
@@ -2424,23 +2659,6 @@
       "plat_per_standing": null,
       "score": null,
       "market_url": "https://warframe.market/items/resonating_quake"
-    },
-    {
-      "name": "Afterburn",
-      "url_name": "afterburn",
-      "standing_cost": 25000,
-      "syndicates": [
-        "Cephalon Suda",
-        "The Perrin Sequence"
-      ],
-      "best_by_rank": {},
-      "volume_48h": null,
-      "median_48h": null,
-      "chosen_price": null,
-      "chosen_rank": null,
-      "plat_per_standing": null,
-      "score": null,
-      "market_url": "https://warframe.market/items/afterburn"
     },
     {
       "name": "Everlasting Ward",
@@ -2528,23 +2746,6 @@
       "market_url": "https://warframe.market/items/blazing_pillage"
     },
     {
-      "name": "Viral Tempest",
-      "url_name": "viral_tempest",
-      "standing_cost": 25000,
-      "syndicates": [
-        "Cephalon Suda",
-        "New Loka"
-      ],
-      "best_by_rank": {},
-      "volume_48h": null,
-      "median_48h": null,
-      "chosen_price": null,
-      "chosen_rank": null,
-      "plat_per_standing": null,
-      "score": null,
-      "market_url": "https://warframe.market/items/viral_tempest"
-    },
-    {
       "name": "Tidal Impunity",
       "url_name": "tidal_impunity",
       "standing_cost": 25000,
@@ -2562,8 +2763,8 @@
       "market_url": "https://warframe.market/items/tidal_impunity"
     },
     {
-      "name": "Rousing Plunder",
-      "url_name": "rousing_plunder",
+      "name": "Viral Tempest",
+      "url_name": "viral_tempest",
       "standing_cost": 25000,
       "syndicates": [
         "Cephalon Suda",
@@ -2576,7 +2777,24 @@
       "chosen_rank": null,
       "plat_per_standing": null,
       "score": null,
-      "market_url": "https://warframe.market/items/rousing_plunder"
+      "market_url": "https://warframe.market/items/viral_tempest"
+    },
+    {
+      "name": "Pilfering Swarm",
+      "url_name": "pilfering_swarm",
+      "standing_cost": 25000,
+      "syndicates": [
+        "Cephalon Suda",
+        "New Loka"
+      ],
+      "best_by_rank": {},
+      "volume_48h": null,
+      "median_48h": null,
+      "chosen_price": null,
+      "chosen_rank": null,
+      "plat_per_standing": null,
+      "score": null,
+      "market_url": "https://warframe.market/items/pilfering_swarm"
     },
     {
       "name": "Empowered Quiver",
@@ -2613,23 +2831,6 @@
       "market_url": "https://warframe.market/items/piercing_navigator"
     },
     {
-      "name": "Infiltrate",
-      "url_name": "infiltrate",
-      "standing_cost": 25000,
-      "syndicates": [
-        "Cephalon Suda",
-        "The Perrin Sequence"
-      ],
-      "best_by_rank": {},
-      "volume_48h": null,
-      "median_48h": null,
-      "chosen_price": null,
-      "chosen_rank": null,
-      "plat_per_standing": null,
-      "score": null,
-      "market_url": "https://warframe.market/items/infiltrate"
-    },
-    {
       "name": "Concentrated Arrow",
       "url_name": "concentrated_arrow",
       "standing_cost": 25000,
@@ -2664,12 +2865,12 @@
       "market_url": "https://warframe.market/items/partitioned_mallet"
     },
     {
-      "name": "Mesmer Shield",
-      "url_name": "mesmer_shield",
+      "name": "Conductor",
+      "url_name": "conductor",
       "standing_cost": 25000,
       "syndicates": [
         "Cephalon Suda",
-        "The Perrin Sequence"
+        "New Loka"
       ],
       "best_by_rank": {},
       "volume_48h": null,
@@ -2678,41 +2879,7 @@
       "chosen_rank": null,
       "plat_per_standing": null,
       "score": null,
-      "market_url": "https://warframe.market/items/mesmer_shield"
-    },
-    {
-      "name": "Thrall Pact",
-      "url_name": "thrall_pact",
-      "standing_cost": 25000,
-      "syndicates": [
-        "Cephalon Suda",
-        "The Perrin Sequence"
-      ],
-      "best_by_rank": {},
-      "volume_48h": null,
-      "median_48h": null,
-      "chosen_price": null,
-      "chosen_rank": null,
-      "plat_per_standing": null,
-      "score": null,
-      "market_url": "https://warframe.market/items/thrall_pact"
-    },
-    {
-      "name": "Blinding Reave",
-      "url_name": "blinding_reave",
-      "standing_cost": 25000,
-      "syndicates": [
-        "Cephalon Suda",
-        "The Perrin Sequence"
-      ],
-      "best_by_rank": {},
-      "volume_48h": null,
-      "median_48h": null,
-      "chosen_price": null,
-      "chosen_rank": null,
-      "plat_per_standing": null,
-      "score": null,
-      "market_url": "https://warframe.market/items/blinding_reave"
+      "market_url": "https://warframe.market/items/conductor"
     },
     {
       "name": "Shadow Haze",
@@ -2732,8 +2899,8 @@
       "market_url": "https://warframe.market/items/shadow_haze"
     },
     {
-      "name": "Tesla Bank",
-      "url_name": "tesla_bank",
+      "name": "Blinding Reave",
+      "url_name": "blinding_reave",
       "standing_cost": 25000,
       "syndicates": [
         "Cephalon Suda",
@@ -2746,7 +2913,7 @@
       "chosen_rank": null,
       "plat_per_standing": null,
       "score": null,
-      "market_url": "https://warframe.market/items/tesla_bank"
+      "market_url": "https://warframe.market/items/blinding_reave"
     },
     {
       "name": "Photon Repeater",
@@ -2766,12 +2933,12 @@
       "market_url": "https://warframe.market/items/photon_repeater"
     },
     {
-      "name": "Fused Reservoir",
-      "url_name": "fused_reservoir",
+      "name": "Repelling Bastille",
+      "url_name": "repelling_bastille",
       "standing_cost": 25000,
       "syndicates": [
         "Cephalon Suda",
-        "New Loka"
+        "The Perrin Sequence"
       ],
       "best_by_rank": {},
       "volume_48h": null,
@@ -2780,7 +2947,7 @@
       "chosen_rank": null,
       "plat_per_standing": null,
       "score": null,
-      "market_url": "https://warframe.market/items/fused_reservoir"
+      "market_url": "https://warframe.market/items/repelling_bastille"
     },
     {
       "name": "Critical Surge",
@@ -2834,12 +3001,12 @@
       "market_url": "https://warframe.market/items/loyal_merulina"
     },
     {
-      "name": "Surging Blades",
-      "url_name": "surging_blades",
+      "name": "Mesmer Shield",
+      "url_name": "mesmer_shield",
       "standing_cost": 25000,
       "syndicates": [
         "Cephalon Suda",
-        "New Loka"
+        "The Perrin Sequence"
       ],
       "best_by_rank": {},
       "volume_48h": null,
@@ -2848,7 +3015,7 @@
       "chosen_rank": null,
       "plat_per_standing": null,
       "score": null,
-      "market_url": "https://warframe.market/items/surging_blades"
+      "market_url": "https://warframe.market/items/mesmer_shield"
     },
     {
       "name": "Toxic Sequence",
@@ -2899,23 +3066,6 @@
       "market_url": "https://warframe.market/items/sequence_burn"
     },
     {
-      "name": "Greedy Pull",
-      "url_name": "greedy_pull",
-      "standing_cost": 25000,
-      "syndicates": [
-        "New Loka",
-        "The Perrin Sequence"
-      ],
-      "best_by_rank": {},
-      "volume_48h": null,
-      "median_48h": null,
-      "chosen_price": null,
-      "chosen_rank": null,
-      "plat_per_standing": null,
-      "score": null,
-      "market_url": "https://warframe.market/items/greedy_pull"
-    },
-    {
       "name": "Magnetized Discharge",
       "url_name": "magnetized_discharge",
       "standing_cost": 25000,
@@ -2931,23 +3081,6 @@
       "plat_per_standing": null,
       "score": null,
       "market_url": "https://warframe.market/items/magnetized_discharge"
-    },
-    {
-      "name": "Fracturing Crush",
-      "url_name": "fracturing_crush",
-      "standing_cost": 25000,
-      "syndicates": [
-        "New Loka",
-        "The Perrin Sequence"
-      ],
-      "best_by_rank": {},
-      "volume_48h": null,
-      "median_48h": null,
-      "chosen_price": null,
-      "chosen_rank": null,
-      "plat_per_standing": null,
-      "score": null,
-      "market_url": "https://warframe.market/items/fracturing_crush"
     },
     {
       "name": "Counter Pulse",
@@ -2967,23 +3100,6 @@
       "market_url": "https://warframe.market/items/counter_pulse"
     },
     {
-      "name": "Soul Survivor",
-      "url_name": "soul_survivor",
-      "standing_cost": 25000,
-      "syndicates": [
-        "Red Veil",
-        "The Perrin Sequence"
-      ],
-      "best_by_rank": {},
-      "volume_48h": null,
-      "median_48h": null,
-      "chosen_price": null,
-      "chosen_rank": null,
-      "plat_per_standing": null,
-      "score": null,
-      "market_url": "https://warframe.market/items/soul_survivor"
-    },
-    {
       "name": "Creeping Terrify",
       "url_name": "creeping_terrify",
       "standing_cost": 25000,
@@ -2999,23 +3115,6 @@
       "plat_per_standing": null,
       "score": null,
       "market_url": "https://warframe.market/items/creeping_terrify"
-    },
-    {
-      "name": "Despoil",
-      "url_name": "despoil",
-      "standing_cost": 25000,
-      "syndicates": [
-        "Red Veil",
-        "The Perrin Sequence"
-      ],
-      "best_by_rank": {},
-      "volume_48h": null,
-      "median_48h": null,
-      "chosen_price": null,
-      "chosen_rank": null,
-      "plat_per_standing": null,
-      "score": null,
-      "market_url": "https://warframe.market/items/despoil"
     },
     {
       "name": "Shield of Shadows",
@@ -3069,23 +3168,6 @@
       "market_url": "https://warframe.market/items/abating_link"
     },
     {
-      "name": "Champion's Blessing",
-      "url_name": "champions_blessing",
-      "standing_cost": 25000,
-      "syndicates": [
-        "New Loka",
-        "The Perrin Sequence"
-      ],
-      "best_by_rank": {},
-      "volume_48h": null,
-      "median_48h": null,
-      "chosen_price": null,
-      "chosen_rank": null,
-      "plat_per_standing": null,
-      "score": null,
-      "market_url": "https://warframe.market/items/champions_blessing"
-    },
-    {
       "name": "Swing Line",
       "url_name": "swing_line",
       "standing_cost": 25000,
@@ -3101,23 +3183,6 @@
       "plat_per_standing": null,
       "score": null,
       "market_url": "https://warframe.market/items/swing_line"
-    },
-    {
-      "name": "Eternal War",
-      "url_name": "eternal_war",
-      "standing_cost": 25000,
-      "syndicates": [
-        "New Loka",
-        "The Perrin Sequence"
-      ],
-      "best_by_rank": {},
-      "volume_48h": null,
-      "median_48h": null,
-      "chosen_price": null,
-      "chosen_rank": null,
-      "plat_per_standing": null,
-      "score": null,
-      "market_url": "https://warframe.market/items/eternal_war"
     },
     {
       "name": "Prolonged Paralysis",
@@ -3137,8 +3202,8 @@
       "market_url": "https://warframe.market/items/prolonged_paralysis"
     },
     {
-      "name": "Hysterical Assault",
-      "url_name": "hysterical_assault",
+      "name": "Enraged",
+      "url_name": "enraged",
       "standing_cost": 25000,
       "syndicates": [
         "New Loka",
@@ -3151,39 +3216,7 @@
       "chosen_rank": null,
       "plat_per_standing": null,
       "score": null,
-      "market_url": "https://warframe.market/items/hysterical_assault"
-    },
-    {
-      "name": "Squad_Ammo_Restore",
-      "url_name": "squad_ammo_restore",
-      "standing_cost": 25000,
-      "syndicates": [
-        "Red Veil"
-      ],
-      "best_by_rank": {},
-      "volume_48h": null,
-      "median_48h": null,
-      "chosen_price": null,
-      "chosen_rank": null,
-      "plat_per_standing": null,
-      "score": null,
-      "market_url": "https://warframe.market/items/squad_ammo_restore"
-    },
-    {
-      "name": "Gleaming Blight",
-      "url_name": "gleaming_blight",
-      "standing_cost": 25000,
-      "syndicates": [
-        "Red Veil"
-      ],
-      "best_by_rank": {},
-      "volume_48h": null,
-      "median_48h": null,
-      "chosen_price": null,
-      "chosen_rank": null,
-      "plat_per_standing": null,
-      "score": null,
-      "market_url": "https://warframe.market/items/gleaming_blight"
+      "market_url": "https://warframe.market/items/enraged"
     },
     {
       "name": "Eroding Blight",
@@ -3202,8 +3235,8 @@
       "market_url": "https://warframe.market/items/eroding_blight"
     },
     {
-      "name": "Stockpiled Blight",
-      "url_name": "stockpiled_blight",
+      "name": "Squad_Ammo_Restore",
+      "url_name": "squad_ammo_restore",
       "standing_cost": 25000,
       "syndicates": [
         "Red Veil"
@@ -3215,7 +3248,7 @@
       "chosen_rank": null,
       "plat_per_standing": null,
       "score": null,
-      "market_url": "https://warframe.market/items/stockpiled_blight"
+      "market_url": "https://warframe.market/items/squad_ammo_restore"
     },
     {
       "name": "Toxic Blight",
@@ -3336,23 +3369,6 @@
       "market_url": "https://warframe.market/items/target_fixation"
     },
     {
-      "name": "Airburst Rounds",
-      "url_name": "airburst_rounds",
-      "standing_cost": 25000,
-      "syndicates": [
-        "New Loka",
-        "Red Veil"
-      ],
-      "best_by_rank": {},
-      "volume_48h": null,
-      "median_48h": null,
-      "chosen_price": null,
-      "chosen_rank": null,
-      "plat_per_standing": null,
-      "score": null,
-      "market_url": "https://warframe.market/items/airburst_rounds"
-    },
-    {
       "name": "Funnel Clouds",
       "url_name": "funnel_clouds",
       "standing_cost": 25000,
@@ -3370,8 +3386,8 @@
       "market_url": "https://warframe.market/items/funnel_clouds"
     },
     {
-      "name": "Anchored Glide",
-      "url_name": "anchored_glide",
+      "name": "Airburst Rounds",
+      "url_name": "airburst_rounds",
       "standing_cost": 25000,
       "syndicates": [
         "New Loka",
@@ -3384,7 +3400,7 @@
       "chosen_rank": null,
       "plat_per_standing": null,
       "score": null,
-      "market_url": "https://warframe.market/items/anchored_glide"
+      "market_url": "https://warframe.market/items/airburst_rounds"
     },
     {
       "name": "Winds of Purity",
@@ -3401,22 +3417,6 @@
       "plat_per_standing": null,
       "score": null,
       "market_url": "https://warframe.market/items/winds_of_purity"
-    },
-    {
-      "name": "Bright Purity",
-      "url_name": "bright_purity",
-      "standing_cost": 25000,
-      "syndicates": [
-        "New Loka"
-      ],
-      "best_by_rank": {},
-      "volume_48h": null,
-      "median_48h": null,
-      "chosen_price": null,
-      "chosen_rank": null,
-      "plat_per_standing": null,
-      "score": null,
-      "market_url": "https://warframe.market/items/bright_purity"
     },
     {
       "name": "Disarming Purity",
